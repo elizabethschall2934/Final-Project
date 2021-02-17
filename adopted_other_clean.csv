@@ -1,0 +1,497 @@
+Animal ID,Name,DateTime,MonthYear,Found Location,Intake Type,Intake Condition,Animal Type,Sex upon Intake,Age upon Intake,Breed,Color,DateTime_out,Outcome Type,Outcome Subtype,shelter_time
+763638,Kiwi,2017-12-12 15:24:00,12/12/2017 03:24:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,8 months,Cinnamon,Gray,2018-01-13 14:32:00,Adoption,,31 days 23:08:00
+758257,*Cosmo,2017-09-13 12:29:00,09/13/2017 12:29:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,5 months,Dutch/Angora-Satin,Black/White,2017-10-01 16:42:00,Adoption,,18 days 04:13:00
+755830,*Moana,2017-08-09 14:09:00,08/09/2017 02:09:00 PM,5704 Parkwood Drive in Austin (TX),Owner Surrender,Normal,Other,Spayed Female,3 years,Rabbit Sh Mix,Tortie,2017-09-23 17:24:00,Adoption,,45 days 03:15:00
+803767,,2019-09-05 17:41:00,09/05/2019 05:41:00 PM,969 And Imperial Drive in Austin (TX),Stray,Normal,Other,Intact Male,1 year,Guinea Pig,Brown/White,2019-09-09 18:32:00,Adoption,,4 days 00:51:00
+752640,*Otter,2017-06-25 13:19:00,06/25/2017 01:19:00 PM,10000 Research Blvd in Austin (TX),Stray,Normal,Other,Intact Male,1 year,Rex,Black/White,2017-07-07 12:45:00,Adoption,,11 days 23:26:00
+718924,*Parsnip,2016-01-09 12:41:00,01/09/2016 12:41:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,1 year,Californian,White/Gray,2016-03-29 17:28:00,Adoption,,80 days 04:47:00
+811478,,2020-01-04 12:59:00,01/04/2020 12:59:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,5 months,Guinea Pig,Tan/Tricolor,2020-01-12 11:38:00,Adoption,,7 days 22:39:00
+793881,*George,2019-05-01 13:39:00,05/01/2019 01:39:00 PM,1321 Mckie Cv in Austin (TX),Stray,Normal,Other,Intact Male,2 years,Rabbit Sh Mix,White/Tan,2019-05-15 18:11:00,Adoption,,14 days 04:32:00
+823951,Erine W/ Bert,2020-10-02 12:31:00,10/02/2020 12:31:00 PM,124 W Anderson Lane in Austin (TX),Stray,Normal,Other,Unknown,1 year,Guinea Pig,Tricolor,2020-10-06 18:45:00,Adoption,,4 days 06:14:00
+822041,,2020-08-25 11:40:00,08/25/2020 11:40:00 AM,3101 Stirrat Street in Travis (TX),Stray,Normal,Other,Intact Male,2 years,Rabbit Sh,Black/White,2020-08-29 12:04:00,Adoption,,4 days 00:24:00
+735525,Lucy,2016-09-25 08:47:00,09/25/2016 08:47:00 AM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,5 years,Rex Mix,White/Brown,2016-10-16 09:14:00,Adoption,,21 days 00:27:00
+675558,Sam,2014-03-29 11:28:00,03/29/2014 11:28:00 AM,Austin (TX),Owner Surrender,Normal,Other,Neutered Male,1 year,Sugar Glider,Agouti/Gray,2014-04-25 18:44:00,Adoption,Foster,27 days 07:16:00
+757186,*Moo,2017-08-31 11:26:00,08/31/2017 11:26:00 AM,809 South Lamar Blvd in Austin (TX),Stray,Normal,Other,Intact Male,1 year,Rex-Mini Mix,White/Black,2017-09-23 18:45:00,Adoption,,23 days 07:19:00
+674312,Arnie,2014-03-11 11:48:00,03/11/2014 11:48:00 AM,2936 Barton Skyway in Austin (TX),Stray,Normal,Other,Neutered Male,1 year,Ferret Mix,Brown/White,2014-03-16 18:02:00,Adoption,,5 days 06:14:00
+806338,,2019-10-09 10:57:00,10/09/2019 10:57:00 AM,7201 Levander Loop in Austin (TX),Stray,Normal,Other,Unknown,2 years,Guinea Pig,Tricolor,2019-10-13 17:21:00,Adoption,,4 days 06:24:00
+801597,,2019-08-06 13:27:00,08/06/2019 01:27:00 PM,3300 Killingsworth Lane in Pflugerville (TX),Stray,Normal,Other,Spayed Female,3 months,Ferret,Buff,2019-08-09 19:10:00,Adoption,,3 days 05:43:00
+804423,Hayden,2019-09-14 15:14:00,09/14/2019 03:14:00 PM,Travis (TX),Owner Surrender,Normal,Other,Intact Male,3 months,Rat,White/Brown,2019-09-18 17:58:00,Adoption,,4 days 02:44:00
+810684,Charlie,2019-12-18 11:37:00,12/18/2019 11:37:00 AM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,9 months,Hotot,White/Gray,2020-01-14 18:52:00,Adoption,,27 days 07:15:00
+804624,Sprinkle Sparkles,2019-09-16 15:00:00,09/16/2019 03:00:00 PM,Austin (TX),Stray,Sick,Other,Spayed Female,6 years,Ferret,Sable,2019-09-28 16:40:00,Adoption,,12 days 01:40:00
+779391,*Jeremy,2018-08-31 11:20:00,08/31/2018 11:20:00 AM,6725 Circle S Road in Austin (TX),Stray,Normal,Other,Intact Female,2 years,Guinea Pig Mix,Red/White,2018-09-15 19:37:00,Adoption,,15 days 08:17:00
+793603,*Jordan,2019-04-27 12:33:00,04/27/2019 12:33:00 PM,5100 Edenbourogh Lane in Austin (TX),Owner Surrender,Normal,Other,Intact Male,1 year,American Mix,White/Tan,2019-05-16 13:02:00,Adoption,,19 days 00:29:00
+807313,,2019-10-23 15:18:00,10/23/2019 03:18:00 PM,1215 West Slaughter Lane in Austin (TX),Stray,Normal,Other,Intact Female,1 year,Guinea Pig,Calico,2019-10-27 15:44:00,Adoption,,4 days 00:26:00
+809939,*Pablo,2019-12-04 13:25:00,12/04/2019 01:25:00 PM,6301 W Slaughter Lane in Austin (TX),Stray,Normal,Other,Intact Male,2 years,Rabbit Sh,Brown,2020-01-03 15:13:00,Adoption,,30 days 01:48:00
+733903,Spikes,2016-08-29 11:34:00,08/29/2016 11:34:00 AM,Del Valle (TX),Owner Surrender,Normal,Other,Intact Male,1 year,Guinea Pig Mix,Tricolor,2016-08-29 22:38:00,Adoption,,0 days 11:04:00
+786735,Thumper,2018-12-31 14:13:00,12/31/2018 02:13:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,8 months,Angora-French Mix,Brown,2019-01-27 18:48:00,Adoption,,27 days 04:35:00
+818141,,2020-06-02 16:54:00,06/02/2020 04:54:00 PM,4604 Burnet Road in Austin (TX),Abandoned,Normal,Other,Intact Male,2 years,Guinea Pig,White/White,2020-06-11 14:17:00,Adoption,,8 days 21:23:00
+823501,Teemo,2020-09-24 15:36:00,09/24/2020 03:36:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,7 months,Guinea Pig,Brown/White,2020-10-07 11:26:00,Adoption,,12 days 19:50:00
+756864,*Salty,2017-08-26 13:58:00,08/26/2017 01:58:00 PM,12403 Mellow Meadow Drive in Austin (TX),Stray,Normal,Other,Neutered Male,4 years,Ferret,White/Silver,2017-10-14 13:10:00,Adoption,,48 days 23:12:00
+820784,Muffin,2020-07-28 15:13:00,07/28/2020 03:13:00 PM,Austin (TX),Owner Surrender,Normal,Other,Unknown,7 months,Rabbit Lh,White/Brown,2020-08-07 11:35:00,Adoption,Foster,9 days 20:22:00
+734240,,2016-09-03 12:04:00,09/03/2016 12:04:00 PM,2815 Hwy 71 in Austin (TX),Public Assist,Normal,Other,Intact Female,6 months,Rabbit Sh Mix,White/Black,2016-09-18 10:41:00,Adoption,,14 days 22:37:00
+774564,Scarlett O'H,2018-06-17 12:43:00,06/17/2018 12:43:00 PM,811 East 41St Street in Austin (TX),Stray,Normal,Other,Intact Female,2 years,Lop-Amer Fuzzy,White/Gray,2018-07-28 12:10:00,Adoption,,40 days 23:27:00
+819488,Nugget,2020-06-29 16:53:00,06/29/2020 04:53:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,1 year,Angora-French Mix,Buff,2020-07-14 16:16:00,Adoption,,14 days 23:23:00
+818911,Sage,2020-06-17 15:31:00,06/17/2020 03:31:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,1 year,Guinea Pig,White/Brown,2020-06-23 16:15:00,Adoption,,6 days 00:44:00
+763750,*Louie,2017-12-15 13:35:00,12/15/2017 01:35:00 PM,8610 Ranch Road 620 in Austin (TX),Stray,Normal,Other,Intact Male,1 year,Lionhead,Gray/Gray,2018-01-08 17:10:00,Adoption,,24 days 03:35:00
+723394,*Brian J.,2016-03-31 12:59:00,03/31/2016 12:59:00 PM,1420 E Anderson Ln in Austin (TX),Stray,Normal,Other,Intact Male,1 year,Rabbit Sh Mix,White/Black,2016-06-03 17:09:00,Adoption,,64 days 04:10:00
+806336,,2019-10-09 10:57:00,10/09/2019 10:57:00 AM,7201 Levander Loop in Austin (TX),Stray,Normal,Other,Unknown,2 years,Guinea Pig,Tricolor,2019-10-13 17:21:00,Adoption,,4 days 06:24:00
+801902,Caramel,2019-08-11 12:06:00,08/11/2019 12:06:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,4 years,Guinea Pig,White/Tan,2019-08-14 15:06:00,Adoption,,3 days 03:00:00
+742811,*Thumper,2017-01-28 16:39:00,01/28/2017 04:39:00 PM,3501 Shoreline Dr in Austin (TX),Stray,Normal,Other,Neutered Male,1 year,Rabbit Sh Mix,Blue,2017-02-08 18:40:00,Adoption,,11 days 02:01:00
+734247,*Hare-Iet,2016-09-03 12:04:00,09/03/2016 12:04:00 PM,2815 Hwy 71 in Austin (TX),Public Assist,Normal,Other,Spayed Female,2 months,Rex Mix,White/Tan,2016-09-27 15:51:00,Adoption,,24 days 03:47:00
+723391,*Willow,2016-03-31 12:59:00,03/31/2016 12:59:00 PM,1420 E Anderson Ln in Austin (TX),Stray,Normal,Other,Spayed Female,1 year,Rabbit Sh Mix,White/Black,2016-06-09 13:25:00,Adoption,,70 days 00:26:00
+755107,Shadow,2017-07-29 12:13:00,07/29/2017 12:13:00 PM,Austin (TX),Owner Surrender,Normal,Other,Spayed Female,1 year,Guinea Pig Mix,Black/Cream,2017-07-30 18:04:00,Adoption,,1 days 05:51:00
+752077,Snowflake,2017-06-17 14:08:00,06/17/2017 02:08:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,11 months,Rabbit Sh Mix,White,2017-07-01 16:00:00,Adoption,,14 days 01:52:00
+807009,Clementine,2019-10-19 14:48:00,10/19/2019 02:48:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,2 years,Dutch,Black/White,2019-11-13 17:48:00,Adoption,,25 days 03:00:00
+716654,,2015-11-22 16:26:00,11/22/2015 04:26:00 PM,3000 Rexford Dr in Austin (TX),Stray,Normal,Other,Unknown,3 months,Rabbit Sh Mix,White/Black,2015-12-04 10:48:00,Adoption,Foster,11 days 18:22:00
+769259,,2018-04-02 13:27:00,04/02/2018 01:27:00 PM,Austin (TX),Owner Surrender,Normal,Other,Unknown,1 year,Cold Water Mix,Gold,2018-05-08 12:28:00,Adoption,Foster,35 days 23:01:00
+751026,Sheldon,2017-06-03 13:29:00,06/03/2017 01:29:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,2 years,Turtle Mix,Green/Red,2017-06-03 18:44:00,Adoption,,0 days 05:15:00
+803292,Newg,2019-08-30 13:12:00,08/30/2019 01:12:00 PM,8501 Cameron in Austin (TX),Stray,Normal,Other,Intact Female,1 year,Guinea Pig,Tricolor,2019-09-14 18:00:00,Adoption,,15 days 04:48:00
+682985,*Edgar,2014-07-05 15:05:00,07/05/2014 03:05:00 PM,1773 Wells Branch Pkwy in Austin (TX),Stray,Normal,Other,Neutered Male,4 years,Ferret Mix,Sable/White,2014-07-22 14:07:00,Adoption,Foster,16 days 23:02:00
+812609,Phoenix,2020-01-25 13:40:00,01/25/2020 01:40:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,1 year,Hamster,Brown/White,2020-01-27 13:10:00,Adoption,,1 days 23:30:00
+734239,*Halle Bunny,2016-09-03 12:04:00,09/03/2016 12:04:00 PM,2815 Hwy 71 in Austin (TX),Public Assist,Normal,Other,Spayed Female,6 months,Rabbit Sh Mix,White/Tan,2016-10-05 19:26:00,Adoption,,32 days 07:22:00
+718923,Fluff-Nilla,2016-01-09 12:41:00,01/09/2016 12:41:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,1 year,Californian,White/Black,2016-03-08 19:06:00,Adoption,,59 days 06:25:00
+698380,Rose,2015-03-10 17:30:00,03/10/2015 05:30:00 PM,Melissa Oaks in Austin (TX),Stray,Normal,Other,Intact Female,1 year,Hamster,Fawn/White,2015-03-28 07:49:00,Adoption,Foster,17 days 14:19:00
+755670,*Carat,2017-08-07 11:58:00,08/07/2017 11:58:00 AM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,2 months,Rabbit Sh Mix,White,2017-08-19 11:24:00,Adoption,,11 days 23:26:00
+752706,*Stranger,2017-06-26 12:55:00,06/26/2017 12:55:00 PM,Quicksilver Blvd And Canella Dr in Austin (TX),Stray,Normal,Other,Intact Male,1 year,Rabbit Sh Mix,White,2017-08-19 14:02:00,Adoption,,54 days 01:07:00
+740026,*Fergus,2016-12-10 13:38:00,12/10/2016 01:38:00 PM,Austin (TX),Stray,Normal,Other,Intact Male,1 year,Rabbit Sh Mix,White/Gray,2017-01-12 14:00:00,Adoption,,33 days 00:22:00
+734251,*Marilyn Bun,2016-09-03 12:04:00,09/03/2016 12:04:00 PM,2815 Hwy 71 in Austin (TX),Public Assist,Normal,Other,Spayed Female,8 months,Hotot Mix,White/Black,2016-10-05 22:05:00,Adoption,,32 days 10:01:00
+769262,,2018-04-02 13:27:00,04/02/2018 01:27:00 PM,Austin (TX),Owner Surrender,Normal,Other,Unknown,1 year,Cold Water Mix,Gold,2018-05-08 12:29:00,Adoption,Foster,35 days 23:02:00
+818142,,2020-06-02 16:54:00,06/02/2020 04:54:00 PM,4604 Burnet Road in Austin (TX),Abandoned,Normal,Other,Intact Female,3 weeks,Guinea Pig,Tricolor,2020-06-12 11:22:00,Adoption,,9 days 18:28:00
+771519,,2018-05-06 11:54:00,05/06/2018 11:54:00 AM,11416 Robert Wooding Drive in Austin (TX),Stray,Normal,Other,Unknown,1 year,Ferret Mix,Black/Tan,2018-05-10 13:20:00,Adoption,,4 days 01:26:00
+796839,*Happy,2019-06-05 18:56:00,06/05/2019 06:56:00 PM,7015 Colony Loop Drive in Austin (TX),Stray,Normal,Other,Neutered Male,1 year,Californian,White/Blue,2019-08-04 11:36:00,Adoption,,59 days 16:40:00
+748187,Bb,2017-04-30 14:28:00,04/30/2017 02:28:00 PM,1020 E 45Th St in Austin (TX),Owner Surrender,Normal,Other,Neutered Male,9 months,Lionhead Mix,Black,2017-05-05 15:01:00,Adoption,,5 days 00:33:00
+820844,*Blynken,2020-07-30 13:07:00,07/30/2020 01:07:00 PM,Austin (TX),Owner Surrender,Normal,Other,Unknown,1 year,Guinea Pig,White,2020-08-04 07:29:00,Adoption,Foster,4 days 18:22:00
+761082,Fiona,2017-10-28 16:37:00,10/28/2017 04:37:00 PM,Austin (TX),Owner Surrender,Normal,Other,Spayed Female,3 years,English Spot,White/Brown,2018-01-23 17:12:00,Adoption,,87 days 00:35:00
+777842,Gibbles,2018-08-04 12:01:00,08/04/2018 12:01:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,7 months,Guinea Pig Mix,Tricolor/White,2018-08-18 11:42:00,Adoption,Foster,13 days 23:41:00
+810225,Bun Bun,2019-12-09 13:11:00,12/09/2019 01:11:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,9 months,Havana,Chocolate,2020-01-02 17:52:00,Adoption,,24 days 04:41:00
+770701,,2018-04-24 08:01:00,04/24/2018 08:01:00 AM,4434 Frontier Trl in Austin (TX),Public Assist,Normal,Other,Unknown,1 year,Mouse Mix,White,2018-05-03 16:32:00,Adoption,,9 days 08:31:00
+734229,Rizzo,2016-09-03 12:04:00,09/03/2016 12:04:00 PM,2815 Hwy 71 in Austin (TX),Public Assist,Normal,Other,Intact Female,2 months,Rabbit Sh Mix,Black,2016-09-12 17:37:00,Adoption,,9 days 05:33:00
+765667,*Patches,2018-01-24 13:43:00,01/24/2018 01:43:00 PM,Convict Hill Road & Escarpment Boulevard in Austin (TX),Stray,Normal,Other,Intact Male,1 year,Checkered Giant Mix,White/Brown,2018-02-18 11:41:00,Adoption,,24 days 21:58:00
+811623,,2020-01-06 15:57:00,01/06/2020 03:57:00 PM,2908 East Howard Ln in Travis (TX),Stray,Normal,Other,Intact Female,2 years,Dutch,Black/White,2020-02-16 13:51:00,Adoption,,40 days 21:54:00
+723395,*Wilson,2016-03-31 12:59:00,03/31/2016 12:59:00 PM,1420 E Anderson Ln in Austin (TX),Stray,Normal,Other,Intact Male,1 year,Rabbit Sh Mix,White/Black,2016-05-26 19:24:00,Adoption,,56 days 06:25:00
+804291,,2019-09-12 16:24:00,09/12/2019 04:24:00 PM,Runburg Middlefiskville in Austin (TX),Stray,Normal,Other,Intact Male,2 years,Hamster,White/Brown,2019-09-20 12:43:00,Adoption,Foster,7 days 20:19:00
+811131,*Flower,2019-12-28 16:33:00,12/28/2019 04:33:00 PM,Wickersham Lane And Cro Mwell Circle in Austin (TX),Stray,Normal,Other,Intact Male,1 year,Rabbit Sh,Black,2020-01-21 19:01:00,Adoption,,24 days 02:28:00
+680392,*Plecostomus,2014-06-02 12:12:00,06/02/2014 12:12:00 PM,7402 Vintage Hills in Austin (TX),Public Assist,Sick,Other,Unknown,1 year,Cold Water,Black/Gray,2014-06-06 19:26:00,Adoption,,4 days 07:14:00
+721557,Scooter,2016-02-29 13:45:00,02/29/2016 01:45:00 PM,Austin (TX),Stray,Normal,Other,Intact Male,1 year,Lop-Mini,White,2016-03-17 16:12:00,Adoption,,17 days 02:27:00
+800755,*Ellie,2019-07-26 11:32:00,07/26/2019 11:32:00 AM,5621 North Interstate Highway 35 in Austin (TX),Stray,Normal,Other,Spayed Female,2 years,Ferret,Brown/Cream,2019-07-30 11:57:00,Adoption,,4 days 00:25:00
+794655,Alice,2019-05-10 14:35:00,05/10/2019 02:35:00 PM,9201 Circuit Of The Americas in Travis (TX),Stray,Normal,Other,Intact Female,1 month,Rabbit Sh,White/Black,2019-06-09 18:02:00,Adoption,,30 days 03:27:00
+736461,*Barton,2016-10-11 09:25:00,10/11/2016 09:25:00 AM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,4 months,Polish Mix,White,2017-01-08 13:30:00,Adoption,,89 days 04:05:00
+764856,Fleur,2018-01-07 16:01:00,01/07/2018 04:01:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,1 year,Rabbit Lh Mix,White/White,2018-02-01 21:51:00,Adoption,,25 days 05:50:00
+789430,,2019-02-21 14:42:00,02/21/2019 02:42:00 PM,Austin (TX),Owner Surrender,Normal,Other,Unknown,4 weeks,Mouse Mix,Brown,2019-02-22 16:08:00,Adoption,,1 days 01:26:00
+820845,*Nod,2020-07-30 13:07:00,07/30/2020 01:07:00 PM,Austin (TX),Owner Surrender,Normal,Other,Unknown,1 year,Guinea Pig,White,2020-08-04 07:28:00,Adoption,Foster,4 days 18:21:00
+766418,*Milo,2018-02-08 15:00:00,02/08/2018 03:00:00 PM,Martin Luther King Jr in Austin (TX),Stray,Normal,Other,Intact Male,2 years,Rabbit Sh Mix,Black,2018-03-16 18:11:00,Adoption,,36 days 03:11:00
+715713,,2015-11-08 14:59:00,11/08/2015 02:59:00 PM,201 W Ben White Blvd in Austin (TX),Stray,Normal,Other,Intact Male,1 year,Rat Mix,White/Brown,2015-11-12 11:40:00,Adoption,,3 days 20:41:00
+757394,,2017-09-01 18:56:00,09/01/2017 06:56:00 PM,Lott Avenue And Ledesma Road in Austin (TX),Stray,Normal,Other,Unknown,1 year,Guinea Pig Mix,Calico,2017-09-06 16:50:00,Adoption,,4 days 21:54:00
+751899,Honey,2017-06-15 11:17:00,06/15/2017 11:17:00 AM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,7 months,Rabbit Sh Mix,Agouti,2017-08-11 19:18:00,Adoption,,57 days 08:01:00
+761531,Bandit,2017-11-06 13:37:00,11/06/2017 01:37:00 PM,Travis (TX),Owner Surrender,Normal,Other,Intact Male,4 years,Rabbit Sh Mix,White/Black,2017-12-08 15:33:00,Adoption,,32 days 01:56:00
+721149,*Woody,2016-02-22 12:49:00,02/22/2016 12:49:00 PM,Meehan Dr And Scofield Ln in Austin (TX),Stray,Normal,Other,Neutered Male,1 year,Rabbit Sh,Black,2016-03-04 17:18:00,Adoption,,11 days 04:29:00
+754908,*Toots,2017-07-26 14:13:00,07/26/2017 02:13:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,1 year,Rabbit Lh Mix,Blue/White,2017-08-15 14:07:00,Adoption,,19 days 23:54:00
+729610,Ryleigh,2016-06-21 11:26:00,06/21/2016 11:26:00 AM,Travis (TX),Owner Surrender,Normal,Other,Spayed Female,6 months,Rabbit Sh Mix,White/Gray,2016-07-11 15:44:00,Adoption,,20 days 04:18:00
+814374,,2020-02-28 15:33:00,02/28/2020 03:33:00 PM,9117 Anderson Mill Road in Austin (TX),Stray,Normal,Other,Intact Male,1 year,Dwarf Hotot,Gray,2020-03-03 16:47:00,Adoption,,4 days 01:14:00
+734238,*Bun Affleck,2016-09-03 12:04:00,09/03/2016 12:04:00 PM,2815 Hwy 71 in Austin (TX),Public Assist,Normal,Other,Neutered Male,2 years,Rabbit Sh Mix,White/Black,2016-10-23 22:34:00,Adoption,,50 days 10:30:00
+733826,Copper,2016-08-27 15:53:00,08/27/2016 03:53:00 PM,Travis (TX),Owner Surrender,Normal,Other,Intact Male,8 months,Rabbit Sh Mix,Brown/White,2016-09-03 10:38:00,Adoption,,6 days 18:45:00
+725280,*Tabby,2016-04-27 16:01:00,04/27/2016 04:01:00 PM,Camino Real & Romeria in Austin (TX),Stray,Normal,Other,Intact Female,1 year,Rabbit Sh Mix,Black/White,2016-05-30 18:00:00,Adoption,,33 days 01:59:00
+733904,Chubby,2016-08-29 11:34:00,08/29/2016 11:34:00 AM,Del Valle (TX),Owner Surrender,Normal,Other,Intact Male,1 year,Guinea Pig Mix,Black,2016-08-29 22:38:00,Adoption,,0 days 11:04:00
+800707,Maggie,2019-07-25 11:25:00,07/25/2019 11:25:00 AM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,1 year,Californian,White/Black,2019-08-24 12:53:00,Adoption,,30 days 01:28:00
+788917,Cory,2019-02-11 14:47:00,02/11/2019 02:47:00 PM,Travis (TX),Owner Surrender,Normal,Other,Intact Male,2 years,Rabbit Sh Mix,Brown,2019-03-08 12:33:00,Adoption,,24 days 21:46:00
+734244,,2016-09-03 12:04:00,09/03/2016 12:04:00 PM,2815 Hwy 71 in Austin (TX),Public Assist,Normal,Other,Intact Male,3 months,Rabbit Sh Mix,White/Black,2016-09-18 10:42:00,Adoption,,14 days 22:38:00
+782670,Obama,2018-10-19 13:16:00,10/19/2018 01:16:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,2 years,Lionhead Mix,Brown,2018-12-08 10:46:00,Adoption,Foster,49 days 21:30:00
+801903,Butter,2019-08-11 12:06:00,08/11/2019 12:06:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,2 years,Guinea Pig,White/Tan,2019-08-13 19:22:00,Adoption,,2 days 07:16:00
+812551,,2020-01-24 15:24:00,01/24/2020 03:24:00 PM,Austin (TX),Owner Surrender,Normal,Other,Neutered Male,10 months,Sugar Glider,Brown/Tan,2020-01-24 18:58:00,Adoption,,0 days 03:34:00
+804910,,2019-09-20 14:03:00,09/20/2019 02:03:00 PM,9414 North Lamar in Austin (TX),Stray,Normal,Other,Intact Male,6 months,Guinea Pig,Calico,2019-09-27 19:30:00,Adoption,,7 days 05:27:00
+733825,Jacob,2016-08-27 15:53:00,08/27/2016 03:53:00 PM,Travis (TX),Owner Surrender,Normal,Other,Intact Male,1 year,Rabbit Sh Mix,White/Brown,2016-09-03 10:38:00,Adoption,,6 days 18:45:00
+723393,*Iggy,2016-03-31 12:59:00,03/31/2016 12:59:00 PM,1420 E Anderson Ln in Austin (TX),Stray,Normal,Other,Intact Male,1 year,Rabbit Sh Mix,White/Black,2016-04-14 10:50:00,Adoption,,13 days 21:51:00
+787328,*Chocolate,2019-01-11 12:21:00,01/11/2019 12:21:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,1 year,Rex-Mini Mix,Chocolate,2019-02-02 14:55:00,Adoption,,22 days 02:34:00
+811124,Curtis,2019-12-28 13:25:00,12/28/2019 01:25:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,1 year,Rabbit Sh,Brown,2020-03-03 11:55:00,Adoption,,65 days 22:30:00
+752795,*Coriander,2017-06-27 14:54:00,06/27/2017 02:54:00 PM,8885 Research in Austin (TX),Stray,Normal,Other,Intact Male,1 year,Rex-Mini,White/Black,2017-08-31 12:34:00,Adoption,,64 days 21:40:00
+754917,Orion,2017-07-26 15:01:00,07/26/2017 03:01:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,4 months,Rabbit Sh Mix,Black,2017-08-19 14:36:00,Adoption,,23 days 23:35:00
+810250,*Pedro,2019-12-09 18:43:00,12/09/2019 06:43:00 PM,9200 North Plaza in Austin (TX),Stray,Normal,Other,Neutered Male,1 year,Californian,White/Blue,2020-03-15 17:16:00,Adoption,,96 days 22:33:00
+734245,*Jesika Rabb,2016-09-03 12:04:00,09/03/2016 12:04:00 PM,2815 Hwy 71 in Austin (TX),Public Assist,Normal,Other,Spayed Female,6 months,Rex Mix,White/Tan,2016-09-27 15:51:00,Adoption,,24 days 03:47:00
+803653,Mochi,2019-09-04 11:15:00,09/04/2019 11:15:00 AM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,6 months,Rabbit Sh,Blue,2019-10-20 15:22:00,Adoption,,46 days 04:07:00
+824857,Ella,2020-10-22 11:44:00,10/22/2020 11:44:00 AM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,6 months,Rabbit Sh,White,2020-10-25 18:12:00,Adoption,,3 days 06:28:00
+668775,,2013-12-09 12:20:00,12/09/2013 12:20:00 PM,6201 Sneed Cove in Austin (TX),Stray,Normal,Other,Spayed Female,8 months,Ferret,Sable,2013-12-13 16:47:00,Adoption,,4 days 04:27:00
+786736,Momo,2018-12-31 14:13:00,12/31/2018 02:13:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,8 months,Beveren Mix,Gray/White,2019-01-27 14:02:00,Adoption,,26 days 23:49:00
+731774,*Domino,2016-07-27 13:01:00,07/27/2016 01:01:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,5 months,English Spot Mix,White/Black,2016-09-03 14:39:00,Adoption,,38 days 01:38:00
+784231,*Rorschach,2018-11-13 12:24:00,11/13/2018 12:24:00 PM,Frontier Valley And Montana in Austin (TX),Stray,Normal,Other,Intact Male,1 year,English Spot Mix,White/Black,2018-12-08 17:57:00,Adoption,,25 days 05:33:00
+778211,Lion,2018-08-10 12:02:00,08/10/2018 12:02:00 PM,6307 Bluff Springs in Austin (TX),Stray,Normal,Other,Intact Female,1 year,Lionhead Mix,Blue,2018-08-25 12:09:00,Adoption,,15 days 00:07:00
+784835,Chico,2018-11-20 14:38:00,11/20/2018 02:38:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,8 months,Californian Mix,White/Gray,2019-04-10 14:51:00,Adoption,,141 days 00:13:00
+772380,*Walnut,2018-05-18 16:56:00,05/18/2018 04:56:00 PM,Blake Manor Road And Fm 973 in Manor (TX),Stray,Normal,Other,Intact Female,1 year,Lop-Holland Mix,Brown/Black,2018-06-28 16:20:00,Adoption,,40 days 23:24:00
+810789,Trixi,2019-12-20 13:56:00,12/20/2019 01:56:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,2 years,Lop-Holland,Black/White,2020-01-18 12:12:00,Adoption,,28 days 22:16:00
+767369,*Doodles,2018-02-27 16:31:00,02/27/2018 04:31:00 PM,7311 Decker Lane in Austin (TX),Stray,Normal,Other,Intact Female,1 year,Himalayan Mix,White/Black,2018-03-30 17:08:00,Adoption,,31 days 00:37:00
+788918,Koda,2019-02-11 14:47:00,02/11/2019 02:47:00 PM,Travis (TX),Owner Surrender,Normal,Other,Intact Male,2 years,Havana Mix,Black,2019-03-21 11:24:00,Adoption,,37 days 20:37:00
+673254,*Sochi,2014-02-21 02:20:00,02/21/2014 02:20:00 AM,18 & San Antonio in Austin (TX),Stray,Normal,Other,Spayed Female,2 years,Ferret,White,2014-03-04 14:06:00,Adoption,,11 days 11:46:00
+747002,*Sebastian,2017-04-12 14:07:00,04/12/2017 02:07:00 PM,1520 Rutherford Ln in Austin (TX),Stray,Normal,Other,Intact Male,2 months,American Mix,White,2017-06-21 16:15:00,Adoption,,70 days 02:08:00
+734479,,2016-09-07 12:03:00,09/07/2016 12:03:00 PM,13421 Alysheba Dr in Travis (TX),Stray,Normal,Other,Intact Female,1 year,Rabbit Sh Mix,White,2016-09-18 10:07:00,Adoption,,10 days 22:04:00
+753906,*Emma,2017-07-12 18:00:00,07/12/2017 06:00:00 PM,Springdale Rd And Rogge Ln in Austin (TX),Stray,Normal,Other,Intact Female,5 months,Rabbit Sh Mix,Blue/Orange,2017-07-28 16:30:00,Adoption,,15 days 22:30:00
+804424,Cathuloo,2019-09-14 15:14:00,09/14/2019 03:14:00 PM,Travis (TX),Owner Surrender,Normal,Other,Intact Male,3 months,Rat,White/Black,2019-09-18 18:08:00,Adoption,,4 days 02:54:00
+811787,,2020-01-09 13:47:00,01/09/2020 01:47:00 PM,3111 Tom Green St in Austin (TX),Stray,Normal,Other,Unknown,1 year,Sugar Glider,Gray/Black,2020-01-14 09:29:00,Adoption,Foster,4 days 19:42:00
+756367,Bob,2017-08-18 12:33:00,08/18/2017 12:33:00 PM,Travis (TX),Owner Surrender,Normal,Other,Unknown,7 months,Guinea Pig Mix,Black,2017-08-19 13:41:00,Adoption,,1 days 01:08:00
+741985,Fish,2017-01-12 15:44:00,01/12/2017 03:44:00 PM,Lago Vista (TX),Owner Surrender,Normal,Other,Neutered Male,7 months,Rex Mix,Black,2017-02-08 18:26:00,Adoption,,27 days 02:42:00
+803663,,2019-09-04 12:49:00,09/04/2019 12:49:00 PM,12151 N Ih 35 Hwy 1016 in Austin (TX),Stray,Normal,Other,Neutered Male,2 years,Ferret,Brown/Cream,2019-09-08 14:28:00,Adoption,,4 days 01:39:00
+824217,,2020-10-16 17:54:00,10/16/2020 05:54:00 PM,12209 Waterside Trail in Austin (TX),Stray,Normal,Other,Intact Male,1 year,English Spot,White/Tan,2020-10-20 12:04:00,Adoption,,3 days 18:10:00
+784751,Bandit,2018-11-19 16:26:00,11/19/2018 04:26:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,3 years,Lop-English Mix,White/Black,2018-11-24 18:06:00,Adoption,,5 days 01:40:00
+785318,,2018-12-01 11:30:00,12/01/2018 11:30:00 AM,4017 Victory Drive in Austin (TX),Stray,Normal,Other,Unknown,1 year,Ferret Mix,Brown/Cream,2018-12-05 13:59:00,Adoption,,4 days 02:29:00
+808198,*Anna,2019-11-05 15:58:00,11/05/2019 03:58:00 PM,11507 Big Trail Cove in Austin (TX),Stray,Normal,Other,Intact Female,2 years,Californian Mix,White/Brown,2019-12-28 15:54:00,Adoption,,52 days 23:56:00
+731260,,2016-07-19 12:45:00,07/19/2016 12:45:00 PM,8703 Stillwood Ln in Austin (TX),Stray,Normal,Other,Intact Female,1 year,Rabbit Sh Mix,Blue,2016-08-01 09:36:00,Adoption,,12 days 20:51:00
+818910,Lilo,2020-06-17 15:31:00,06/17/2020 03:31:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,9 months,Guinea Pig,White/Tricolor,2020-06-23 16:16:00,Adoption,,6 days 00:45:00
+811476,,2020-01-04 12:59:00,01/04/2020 12:59:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,5 months,Guinea Pig,White/Brown,2020-01-08 17:23:00,Adoption,,4 days 04:24:00
+716208,,2015-11-16 13:03:00,11/16/2015 01:03:00 PM,Garrettson Dr And Howellwood Way in Austin (TX),Stray,Normal,Other,Unknown,2 years,Ferret Mix,Sable,2015-11-22 12:52:00,Adoption,,5 days 23:49:00
+745925,*Fern,2017-03-26 13:50:00,03/26/2017 01:50:00 PM,Austin (TX),Stray,Normal,Other,Spayed Female,1 year,Rabbit Sh Mix,Tortie,2017-04-09 18:18:00,Adoption,,14 days 04:28:00
+726794,Brad,2016-05-14 15:40:00,05/14/2016 03:40:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,1 year,Rabbit Sh Mix,White,2016-06-07 13:06:00,Adoption,,23 days 21:26:00
+763120,*Arya,2017-12-03 15:26:00,12/03/2017 03:26:00 PM,2200 South Pleasant Valley in Austin (TX),Owner Surrender,Normal,Other,Intact Female,2 years,Belgian Hare,Gray/Gray,2018-01-14 15:41:00,Adoption,,42 days 00:15:00
+766167,Sophie,2018-02-03 13:36:00,02/03/2018 01:36:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,5 months,Californian Mix,White/Black,2018-02-18 13:48:00,Adoption,,15 days 00:12:00
+803294,,2019-08-30 13:12:00,08/30/2019 01:12:00 PM,8501 Cameron in Austin (TX),Stray,Normal,Other,Intact Female,5 months,Guinea Pig,Tricolor,2019-09-13 19:22:00,Adoption,,14 days 06:10:00
+777871,*Elvisparsly,2018-08-04 15:20:00,08/04/2018 03:20:00 PM,4807 Peach Grove Road in Austin (TX),Stray,Normal,Other,Intact Male,1 year,Rhinelander Mix,Black/White,2018-08-24 19:05:00,Adoption,,20 days 03:45:00
+822976,,2020-09-13 14:34:00,09/13/2020 02:34:00 PM,2100 Pipers Field Dr in Austin (TX),Stray,Normal,Other,Intact Female,2 years,Lionhead,Tan,2020-09-18 11:26:00,Adoption,,4 days 20:52:00
+820303,Biggie,2020-07-16 13:50:00,07/16/2020 01:50:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,1 year,Guinea Pig,Brown/Black,2020-07-24 13:28:00,Adoption,Foster,7 days 23:38:00
+799841,,2019-07-12 14:56:00,07/12/2019 02:56:00 PM,6701 Janes Ranch Rd in Austin (TX),Stray,Normal,Other,Unknown,1 year,Ferret,Gray,2019-07-19 15:02:00,Adoption,,7 days 00:06:00
+734249,,2016-09-03 12:04:00,09/03/2016 12:04:00 PM,2815 Hwy 71 in Austin (TX),Public Assist,Normal,Other,Intact Male,8 months,Rabbit Sh Mix,Black,2016-09-18 10:42:00,Adoption,,14 days 22:38:00
+783513,*June,2018-10-31 20:52:00,10/31/2018 08:52:00 PM,Bramhill in Austin (TX),Stray,Normal,Other,Intact Female,9 months,Lop-Mini/Lop-Holland,White/Brown,2018-11-16 14:34:00,Adoption,,15 days 17:42:00
+735977,Colossus,2016-10-02 13:14:00,10/02/2016 01:14:00 PM,3008 Norwood Hill Rd in Austin (TX),Stray,Normal,Other,Intact Male,1 year,Chinchilla-Stnd Mix,Gray,2016-12-01 17:33:00,Adoption,,60 days 04:19:00
+784836,Chica,2018-11-20 14:38:00,11/20/2018 02:38:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,8 months,Californian Mix,White/Gray,2019-03-30 19:13:00,Adoption,,130 days 04:35:00
+807331,,2019-10-23 17:22:00,10/23/2019 05:22:00 PM,4500 Steiner Ranch Boulevard in Austin (TX),Stray,Normal,Other,Unknown,1 year,Guinea Pig,Calico,2019-11-02 16:28:00,Adoption,,9 days 23:06:00
+734248,*Cappucino,2016-09-03 12:04:00,09/03/2016 12:04:00 PM,2815 Hwy 71 in Austin (TX),Public Assist,Normal,Other,Intact Female,2 months,Rabbit Sh Mix,White/Black,2016-12-11 17:37:00,Adoption,,99 days 05:33:00
+779531,*Toffee,2018-09-02 11:50:00,09/02/2018 11:50:00 AM,Outside Jurisdiction,Stray,Normal,Other,Intact Female,1 year,Guinea Pig,Tricolor,2018-09-24 12:05:00,Adoption,,22 days 00:15:00
+755828,*Te Fiti,2017-08-09 14:09:00,08/09/2017 02:09:00 PM,5704 Parkwood Drive in Austin (TX),Owner Surrender,Normal,Other,Intact Female,7 years,Rabbit Sh Mix,Black/White,2017-09-23 17:23:00,Adoption,,45 days 03:14:00
+801585,*Caballo,2019-08-06 11:24:00,08/06/2019 11:24:00 AM,Johnny Morris Road in Austin (TX),Stray,Normal,Other,Intact Male,1 year,Havana,Black,2020-03-15 17:16:00,Adoption,,222 days 05:52:00
+811479,,2020-01-04 12:59:00,01/04/2020 12:59:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,5 months,Guinea Pig,Black/Tricolor,2020-01-12 11:38:00,Adoption,,7 days 22:39:00
+777556,*Onyx,2018-07-30 14:20:00,07/30/2018 02:20:00 PM,12405 River Bend in Austin (TX),Stray,Normal,Other,Intact Female,1 year,Havana Mix,Black,2018-09-22 14:52:00,Adoption,,54 days 00:32:00
+823500,Cookie,2020-09-24 15:36:00,09/24/2020 03:36:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,7 months,Guinea Pig,Gray/White,2020-10-03 17:33:00,Adoption,,9 days 01:57:00
+809256,*Chanel,2019-11-21 17:51:00,11/21/2019 05:51:00 PM,9200 North Plaza in Austin (TX),Owner Surrender,Sick,Other,Intact Female,1 year,Polish,White/Black,2019-12-31 15:00:00,Adoption,,39 days 21:09:00
+753731,,2017-07-10 13:19:00,07/10/2017 01:19:00 PM,Austin (TX),Owner Surrender,Normal,Other,Unknown,1 year,Rat Mix,White,2017-07-15 11:00:00,Adoption,Foster,4 days 21:41:00
+767007,*Pepper,2018-02-20 21:22:00,02/20/2018 09:22:00 PM,2425 E Riverside Dr in Austin (TX),Stray,Sick,Other,Intact Female,1 year,American Mix,Black,2018-03-30 17:08:00,Adoption,,37 days 19:46:00
+772976,*Bunilla Ice,2018-05-25 16:07:00,05/25/2018 04:07:00 PM,2500 Magin Meadow in Austin (TX),Stray,Normal,Other,Intact Male,1 year,Havana Mix,Black,2018-06-22 18:47:00,Adoption,,28 days 02:40:00
+753423,*Leo,2017-07-06 11:24:00,07/06/2017 11:24:00 AM,1007 Arthur Stiles in Austin (TX),Stray,Normal,Other,Intact Male,1 year,Rabbit Sh Mix,White/Orange,2017-07-27 19:13:00,Adoption,,21 days 07:49:00
+808942,*Star,2019-11-16 13:50:00,11/16/2019 01:50:00 PM,Travis (TX),Owner Surrender,Normal,Other,Intact Female,3 months,Rat,White,2019-11-23 18:25:00,Adoption,,7 days 04:35:00
+767468,*Echo,2018-03-01 13:47:00,03/01/2018 01:47:00 PM,13512 Windstone Court in Manor (TX),Stray,Normal,Other,Intact Male,1 year,Lop-Holland,Black,2018-03-30 17:08:00,Adoption,,29 days 03:21:00
+773840,Mischa,2018-06-06 12:08:00,06/06/2018 12:08:00 PM,Austin (TX),Owner Surrender,Normal,Other,Spayed Female,4 months,Ferret Mix,Gray/Black,2018-06-13 19:19:00,Adoption,,7 days 07:11:00
+822050,Hazel,2020-08-25 11:30:00,08/25/2020 11:30:00 AM,Austin (TX),Owner Surrender,Normal,Other,Spayed Female,1 year,Lop-Holland Mix,Brown,2020-09-20 13:48:00,Adoption,,26 days 02:18:00
+724743,Sharla,2016-04-21 12:50:00,04/21/2016 12:50:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,6 months,Rabbit Sh Mix,White,2016-05-30 18:57:00,Adoption,,39 days 06:07:00
+786124,*Godiva,2018-12-17 12:57:00,12/17/2018 12:57:00 PM,West Howard Lane And Metric Boulevard in Austin (TX),Stray,Normal,Other,Intact Female,1 year,American Mix,Brown,2019-01-30 18:44:00,Adoption,,44 days 05:47:00
+761084,Billy,2017-10-28 16:37:00,10/28/2017 04:37:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,1 year,English Spot,Brown/White,2018-01-23 17:12:00,Adoption,,87 days 00:35:00
+810951,,2019-12-23 14:19:00,12/23/2019 02:19:00 PM,Palo Blanco Lane in Austin (TX),Stray,Normal,Other,Intact Male,1 year,Rabbit Sh,White/Brown,2020-01-14 14:59:00,Adoption,,22 days 00:40:00
+806607,,2019-10-13 11:58:00,10/13/2019 11:58:00 AM,Amherst Drive And Duval Road in Austin (TX),Stray,Normal,Other,Intact Female,6 months,Guinea Pig,White/Brown,2019-10-29 16:31:00,Adoption,,16 days 04:33:00
+741610,*Blanche,2017-01-05 09:57:00,01/05/2017 09:57:00 AM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,13 years,Lop-English Mix,White/Gray,2017-01-23 12:34:00,Adoption,,18 days 02:37:00
+816841,*Ewok,2020-04-29 17:36:00,04/29/2020 05:36:00 PM,201 Lavaca in Austin (TX),Public Assist,Normal,Other,Intact Female,1 year,Rabbit Lh,Brown/Black,2020-05-26 07:33:00,Adoption,Foster,26 days 13:57:00
+751020,Rex,2017-06-03 11:59:00,06/03/2017 11:59:00 AM,6506 High Point Cove in Austin (TX),Stray,Normal,Other,Intact Male,2 weeks,Rex Mix,Black,2017-09-17 15:46:00,Adoption,,106 days 03:47:00
+823431,,2020-09-23 15:07:00,09/23/2020 03:07:00 PM,7131 Wood Hollow in Austin (TX),Stray,Normal,Other,Intact Female,8 months,Rabbit Sh,White/Tan,2020-10-02 18:22:00,Adoption,,9 days 03:15:00
+808944,*Jingle,2019-11-16 13:50:00,11/16/2019 01:50:00 PM,Travis (TX),Owner Surrender,Normal,Other,Unknown,3 months,Rat,White/Gray,2019-11-18 18:21:00,Adoption,,2 days 04:31:00
+777356,,2018-07-27 13:44:00,07/27/2018 01:44:00 PM,11600 Bastrop Street in Manor (TX),Stray,Normal,Other,Unknown,1 year,Lizard Mix,Green/Brown,2018-07-31 15:21:00,Adoption,,4 days 01:37:00
+753512,*Ava,2017-07-07 15:20:00,07/07/2017 03:20:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,2 years,Rabbit Sh Mix,White,2017-08-07 17:28:00,Adoption,,31 days 02:08:00
+778590,Princess,2018-08-17 13:10:00,08/17/2018 01:10:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,5 months,Rex Mix,Chocolate/White,2018-08-26 12:08:00,Adoption,,8 days 22:58:00
+788154,*Pearl,2019-01-27 14:44:00,01/27/2019 02:44:00 PM,7310 Crystal Brook Drive in Austin (TX),Stray,Normal,Other,Intact Female,1 month,Lop-Mini Mix,White,2019-07-20 16:42:00,Adoption,,174 days 01:58:00
+680388,*Koi,2014-06-02 12:12:00,06/02/2014 12:12:00 PM,7402 Vintage Hills in Austin (TX),Public Assist,Sick,Other,Unknown,5 months,Cold Water,Orange/White,2014-06-06 19:25:00,Adoption,,4 days 07:13:00
+802233,Dusty,2019-08-15 15:00:00,08/15/2019 03:00:00 PM,Manor (TX),Owner Surrender,Normal,Other,Intact Male,1 year,Guinea Pig,White/Tricolor,2019-08-17 16:21:00,Adoption,,2 days 01:21:00
+811477,,2020-01-04 12:59:00,01/04/2020 12:59:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,5 months,Guinea Pig,White/Tricolor,2020-01-08 17:23:00,Adoption,,4 days 04:24:00
+777582,*Violet,2018-07-30 18:06:00,07/30/2018 06:06:00 PM,1814 Marcus Abrams Boulevard in Austin (TX),Stray,Normal,Other,Intact Female,1 year,Lop-Holland Mix,Blue,2018-08-10 18:46:00,Adoption,,11 days 00:40:00
+706839,,2015-07-03 19:31:00,07/03/2015 07:31:00 PM,4413 Garnett St in Austin (TX),Owner Surrender,Normal,Other,Unknown,4 weeks,Turtle,Green,2015-07-04 15:25:00,Adoption,,0 days 19:54:00
+804643,Tequila,2019-09-16 16:56:00,09/16/2019 04:56:00 PM,Wells Port Drive in Austin (TX),Stray,Normal,Other,Intact Female,1 year,Rabbit Sh,White/Brown Tabby,2019-10-03 17:48:00,Adoption,,17 days 00:52:00
+739401,*Barnaby,2016-12-02 12:01:00,12/02/2016 12:01:00 PM,1705 Mearn Meadows in Austin (TX),Stray,Normal,Other,Intact Male,1 year,English Spot Mix,White/Brown,2017-01-02 19:52:00,Adoption,,31 days 07:51:00
+716207,,2015-11-16 13:03:00,11/16/2015 01:03:00 PM,Garrettson Dr And Howellwood Way in Austin (TX),Stray,Normal,Other,Unknown,2 years,Ferret Mix,Sable,2015-11-22 12:52:00,Adoption,,5 days 23:49:00
+785966,Cotton Tail,2018-12-13 18:05:00,12/13/2018 06:05:00 PM,13000 Dwight Eisenhower Drive in Manor (TX),Stray,Normal,Other,Intact Female,2 months,Lionhead Mix,Brown,2019-05-22 13:31:00,Adoption,Foster,159 days 19:26:00
+806620,*Coco,2019-10-13 13:21:00,10/13/2019 01:21:00 PM,2407 West Slaughter in Austin (TX),Stray,Normal,Other,Intact Female,1 year,Lionhead,Brown,2019-10-31 12:29:00,Adoption,,17 days 23:08:00
+797545,Midnight,2019-06-14 15:10:00,06/14/2019 03:10:00 PM,Alomar Cove in Travis (TX),Stray,Normal,Other,Intact Male,1 year,American,Black,2019-10-07 19:26:00,Adoption,,115 days 04:16:00
+737543,*Barbarella,2016-10-31 12:09:00,10/31/2016 12:09:00 PM,1927 Willow Creek Dr in Austin (TX),Stray,Normal,Other,Intact Female,1 year,American Mix,White,2017-01-14 17:20:00,Adoption,,75 days 05:11:00
+820843,*Wynken,2020-07-30 13:07:00,07/30/2020 01:07:00 PM,Austin (TX),Owner Surrender,Normal,Other,Unknown,1 year,Guinea Pig,Brown/White,2020-08-07 08:08:00,Adoption,Foster,7 days 19:01:00
+736119,*Pipkin,2016-10-04 16:38:00,10/04/2016 04:38:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,1 year,Rex Mix,White,2016-11-17 16:32:00,Adoption,,43 days 23:54:00
+721152,*Bigwig,2016-02-22 13:33:00,02/22/2016 01:33:00 PM,7201 Wood Hollow Dr in Austin (TX),Stray,Normal,Other,Neutered Male,1 year,Rabbit Sh,White,2016-06-09 13:26:00,Adoption,,107 days 23:53:00
+786233,*Willow,2018-12-19 18:20:00,12/19/2018 06:20:00 PM,1701 Clayton Lane in Austin (TX),Stray,Normal,Other,Neutered Male,1 year,Flemish Giant Mix,Brown,2019-02-23 12:40:00,Adoption,,65 days 18:20:00
+755829,*Maui,2017-08-09 14:09:00,08/09/2017 02:09:00 PM,5704 Parkwood Drive in Austin (TX),Owner Surrender,Normal,Other,Neutered Male,5 years,Netherlnd Dwarf Mix,Brown/White,2017-09-23 17:23:00,Adoption,,45 days 03:14:00
+744178,*Shirley,2017-02-24 15:05:00,02/24/2017 03:05:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,2 years,Harlequin Mix,Orange/Black,2017-03-29 18:34:00,Adoption,,33 days 03:29:00
+776905,Jack Jack,2018-07-20 16:48:00,07/20/2018 04:48:00 PM,1109 South Pleasant Valley in Austin (TX),Stray,Normal,Other,Intact Male,1 year,Guinea Pig,Black/White,2018-07-31 15:20:00,Adoption,,10 days 22:32:00
+806679,Maximus,2019-10-14 11:58:00,10/14/2019 11:58:00 AM,1208 East St Johns in Austin (TX),Stray,Normal,Other,Intact Male,6 months,American,Brown,2019-11-08 18:40:00,Adoption,,25 days 06:42:00
+766048,Cookie,2018-02-01 11:10:00,02/01/2018 11:10:00 AM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,2 years,Britannia Petit Mix,White/Gray,2018-02-18 14:35:00,Adoption,,17 days 03:25:00
+813437,Bobby Brown,2020-02-10 13:40:00,02/10/2020 01:40:00 PM,909 Markham Lane in Austin (TX),Stray,Normal,Other,Unknown,4 years,Rabbit Sh,Black,2020-02-16 12:37:00,Adoption,,5 days 22:57:00
+786091,*Magnolia,2018-12-16 16:36:00,12/16/2018 04:36:00 PM,1601 East Slaughter in Austin (TX),Stray,Normal,Other,Intact Female,1 year,Californian Mix,White/Black,2019-02-01 13:19:00,Adoption,,46 days 20:43:00
+776075,Faye Bunaway,2018-07-08 14:13:00,07/08/2018 02:13:00 PM,6001 Westcreek Drive in Austin (TX),Stray,Normal,Other,Intact Female,9 months,Californian Mix,White/Black,2018-12-14 13:04:00,Adoption,,158 days 22:51:00
+818333,,2020-06-05 15:22:00,06/05/2020 03:22:00 PM,5720 Palo Blanco Lane in Austin (TX),Stray,Normal,Other,Intact Male,2 years,Guinea Pig,Brown/White,2020-06-15 18:19:00,Adoption,,10 days 02:57:00
+771526,Milquetoast,2018-05-06 12:20:00,05/06/2018 12:20:00 PM,Manor (TX),Owner Surrender,Normal,Other,Intact Male,7 months,Californian Mix,White/Gray,2018-07-30 14:58:00,Adoption,,85 days 02:38:00
+734233,,2016-09-03 12:04:00,09/03/2016 12:04:00 PM,2815 Hwy 71 in Austin (TX),Public Assist,Normal,Other,Spayed Female,6 months,Rabbit Sh Mix,White/Black,2016-09-18 10:37:00,Adoption,,14 days 22:33:00
+748186,Fruity,2017-04-30 14:28:00,04/30/2017 02:28:00 PM,1020 E 45Th St in Austin (TX),Owner Surrender,Normal,Other,Spayed Female,9 months,Cinnamon Mix,Brown,2017-05-05 15:01:00,Adoption,,5 days 00:33:00
+803220,Snuggles,2019-08-29 11:38:00,08/29/2019 11:38:00 AM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,1 year,Guinea Pig,White/Black,2019-09-10 13:49:00,Adoption,,12 days 02:11:00
+728797,Draco,2016-06-08 16:55:00,06/08/2016 04:55:00 PM,Austin (TX),Owner Surrender,Normal,Other,Neutered Male,6 years,Ferret Mix,White,2016-06-18 11:59:00,Adoption,,9 days 19:04:00
+744177,*Laverne,2017-02-24 15:05:00,02/24/2017 03:05:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,2 years,Harlequin Mix,Orange/Gray,2017-03-29 18:33:00,Adoption,,33 days 03:28:00
+772128,Tela,2018-05-14 18:05:00,05/14/2018 06:05:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,3 years,Prairie Dog Mix,Brown,2018-05-18 14:28:00,Adoption,,3 days 20:23:00
+743187,Kailo,2017-02-05 14:17:00,02/05/2017 02:17:00 PM,1902 Dumaine Cir in Austin (TX),Stray,Normal,Other,Intact Male,2 months,English Spot Mix,Black/White,2017-02-11 13:06:00,Adoption,,5 days 22:49:00
+759351,*Dustin,2017-09-30 17:43:00,09/30/2017 05:43:00 PM,Huntleigh Circle And Craigwood Drive in Austin (TX),Stray,Normal,Other,Intact Male,1 year,Californian Mix,White/Gray,2017-11-08 17:17:00,Adoption,,38 days 23:34:00
+743926,*Basil,2017-02-19 17:58:00,02/19/2017 05:58:00 PM,85 Trinity in Austin (TX),Stray,Normal,Other,Intact Male,1 year,Californian Mix,White/Black,2017-03-01 17:58:00,Adoption,,10 days 00:00:00
+825699,Koda,2020-11-09 16:53:00,11/09/2020 04:53:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,6 years,Guinea Pig,Red/White,2020-11-10 18:13:00,Adoption,,1 days 01:20:00
+804425,Monichy,2019-09-14 15:14:00,09/14/2019 03:14:00 PM,Travis (TX),Owner Surrender,Normal,Other,Intact Male,3 months,Rat,White/Brown,2019-09-18 18:08:00,Adoption,,4 days 02:54:00
+795179,*Elsa,2019-05-20 15:44:00,05/20/2019 03:44:00 PM,8921Milton Lease Drive in Austin (TX),Stray,Normal,Other,Intact Female,1 year,Rabbit Sh,White/Tan,2019-06-07 18:58:00,Adoption,,18 days 03:14:00
+811313,,2019-12-31 23:17:00,12/31/2019 11:17:00 PM,2100 Rabb in Austin (TX),Stray,Normal,Other,Unknown,1 year,Ferret,Black/White,2020-01-04 12:49:00,Adoption,,3 days 13:32:00
+798222,Niblet,2019-06-23 12:32:00,06/23/2019 12:32:00 PM,Austin (TX),Owner Surrender,Normal,Other,Unknown,1 year,Guinea Pig,Tricolor,2019-06-23 17:24:00,Adoption,,0 days 04:52:00
+730662,,2016-07-08 11:00:00,07/08/2016 11:00:00 AM,2504 New York Dr in Austin (TX),Stray,Normal,Other,Intact Male,1 year,Rex Mix,White/Black,2016-07-21 10:14:00,Adoption,,12 days 23:14:00
+769261,,2018-04-02 13:27:00,04/02/2018 01:27:00 PM,Austin (TX),Owner Surrender,Normal,Other,Unknown,1 year,Cold Water Mix,Gold,2018-05-08 12:29:00,Adoption,Foster,35 days 23:02:00
+718925,Foo Foo,2016-01-09 12:41:00,01/09/2016 12:41:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,1 year,Hotot Mix,White/Black,2016-03-08 19:01:00,Adoption,,59 days 06:20:00
+805217,*Cornelius,2019-09-24 11:30:00,09/24/2019 11:30:00 AM,East 22Nd Street And Maple Avenue in Austin (TX),Stray,Normal,Other,Intact Female,1 year,Rabbit Sh,Gray,2019-10-19 13:57:00,Adoption,,25 days 02:27:00
+777202,*Bunman,2018-07-24 17:22:00,07/24/2018 05:22:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,4 years,Havana Mix,Black,2018-08-08 12:36:00,Adoption,,14 days 19:14:00
+795811,Buster,2019-05-24 18:43:00,05/24/2019 06:43:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,5 months,Rabbit Sh,Seal Point,2019-06-07 17:35:00,Adoption,,13 days 22:52:00
+734242,Pearl,2016-09-03 12:04:00,09/03/2016 12:04:00 PM,2815 Hwy 71 in Austin (TX),Public Assist,Normal,Other,Intact Female,3 months,Rabbit Sh Mix,White/Black,2016-09-12 13:45:00,Adoption,,9 days 01:41:00
+780597,Mozzarella,2018-09-17 13:20:00,09/17/2018 01:20:00 PM,3500 Greystone in Austin (TX),Public Assist,Normal,Other,Intact Female,3 months,Rat Mix,Black/White,2018-09-28 19:17:00,Adoption,,11 days 05:57:00
+798102,*Keto,2019-06-21 14:47:00,06/21/2019 02:47:00 PM,122 Rockmont Drive in Austin (TX),Stray,Normal,Other,Intact Male,5 months,American Sable,Brown,2019-07-05 17:28:00,Adoption,,14 days 02:41:00
+744190,*Mochi,2017-02-24 18:50:00,02/24/2017 06:50:00 PM,1044 Norwood Park Blvd in Austin (TX),Stray,Normal,Other,Intact Female,1 year,Rabbit Sh Mix,White/Brown,2017-03-08 21:27:00,Adoption,,12 days 02:37:00
+825698,Mochi,2020-11-09 16:53:00,11/09/2020 04:53:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,6 years,Guinea Pig,Gray/White,2020-11-10 18:12:00,Adoption,,1 days 01:19:00
+763122,*Aspen,2017-12-03 15:46:00,12/03/2017 03:46:00 PM,13359 Pond Springs in Austin (TX),Stray,Normal,Other,Intact Female,1 year,Flemish Giant,Gray/Black,2018-01-14 15:41:00,Adoption,,41 days 23:55:00
+799114,*Oliver,2019-07-05 12:14:00,07/05/2019 12:14:00 PM,20708 Adobe in Travis (TX),Stray,Normal,Other,Intact Male,1 year,Netherlnd Dwarf,Blue,2019-08-24 17:28:00,Adoption,,50 days 05:14:00
+681384,Lestat,2014-06-15 18:10:00,06/15/2014 06:10:00 PM,4106 N Lamar Blvd in Austin (TX),Stray,Normal,Other,Neutered Male,2 years,Ferret Mix,Black/Brown,2014-06-20 13:10:00,Adoption,Foster,4 days 19:00:00
+756092,*Dandelion,2017-08-14 12:11:00,08/14/2017 12:11:00 PM,8622 Piney Creek Bend in Austin (TX),Stray,Normal,Other,Intact Female,5 months,Angora-English Mix,White/Brown,2017-09-02 17:05:00,Adoption,,19 days 04:54:00
+751019,Luna,2017-06-03 11:59:00,06/03/2017 11:59:00 AM,6506 High Point Cove in Austin (TX),Stray,Normal,Other,Intact Female,2 weeks,Rabbit Sh Mix,Black,2017-09-02 14:29:00,Adoption,Foster,91 days 02:30:00
+814785,,2020-03-05 18:18:00,03/05/2020 06:18:00 PM,902 Glazier Circle in Austin (TX),Stray,Normal,Other,Unknown,2 years,Rabbit Sh,Tortie,2020-03-15 17:17:00,Adoption,,9 days 22:59:00
+754809,,2017-07-25 11:16:00,07/25/2017 11:16:00 AM,10500 Lakeline Mall Dr #504 in Austin (TX),Public Assist,Normal,Other,Unknown,1 month,Tortoise Mix,Brown/Tan,2017-08-03 12:51:00,Adoption,,9 days 01:35:00
+789429,,2019-02-21 14:42:00,02/21/2019 02:42:00 PM,Austin (TX),Owner Surrender,Normal,Other,Unknown,4 weeks,Mouse Mix,Chocolate,2019-02-22 00:00:00,Adoption,,0 days 09:18:00
+756335,Cookie,2017-08-17 18:20:00,08/17/2017 06:20:00 PM,Pflugerville (TX),Owner Surrender,Normal,Other,Spayed Female,5 years,Rabbit Sh Mix,Brown,2017-08-19 17:19:00,Adoption,,1 days 22:59:00
+769623,*Bun,2018-04-07 13:32:00,04/07/2018 01:32:00 PM,17713 Wild Lilly Cove in Travis (TX),Stray,Normal,Other,Intact Male,1 year,Californian Mix,White/Black,2018-06-11 11:29:00,Adoption,,64 days 21:57:00
+799976,Bombur,2019-07-14 15:13:00,07/14/2019 03:13:00 PM,Austin (TX),Owner Surrender,Normal,Other,Spayed Female,3 years,Rex/Lop-English,Sable,2019-07-25 12:59:00,Adoption,,10 days 21:46:00
+773240,*Thorin,2018-05-29 14:01:00,05/29/2018 02:01:00 PM,Pflugerville (TX),Stray,Normal,Other,Intact Male,1 year,Netherlnd Dwarf Mix,White/Brown,2018-06-28 18:27:00,Adoption,,30 days 04:26:00
+783729,,2018-11-05 11:27:00,11/05/2018 11:27:00 AM,Del Valle (TX),Owner Surrender,Normal,Other,Unknown,4 weeks,Hermit Crab Mix,Red,2018-11-13 14:26:00,Adoption,,8 days 02:59:00
+823441,,2020-09-23 16:15:00,09/23/2020 04:15:00 PM,9323 Manchaca Road in Austin (TX),Stray,Normal,Other,Intact Male,2 years,Rabbit Sh,Black/Brown,2020-10-06 18:48:00,Adoption,,13 days 02:33:00
+810905,,2019-12-22 14:31:00,12/22/2019 02:31:00 PM,7800 Croftwood Drive in Austin (TX),Stray,Normal,Other,Unknown,1 year,Guinea Pig,Tricolor,2019-12-28 12:30:00,Adoption,,5 days 21:59:00
+790692,Queso,2019-03-14 14:55:00,03/14/2019 02:55:00 PM,19600 North Heatherwilde Boulevard in Pflugerville (TX),Stray,Normal,Other,Intact Male,7 months,Lop-Holland Mix,Tan/Black,2019-03-27 15:39:00,Adoption,,13 days 00:44:00
+750910,*Tortoise,2017-06-02 10:11:00,06/02/2017 10:11:00 AM,7724 Elkhorn Mountain Trail in Austin (TX),Stray,Normal,Other,Intact Female,2 years,Lionhead,White/Brown,2017-06-17 17:00:00,Adoption,,15 days 06:49:00
+821305,,2020-08-08 09:47:00,08/08/2020 09:47:00 AM,1308 Mckie Dr in Austin (TX),Stray,Normal,Other,Unknown,1 year,Rabbit Sh,Brown,2020-08-19 11:51:00,Adoption,,11 days 02:04:00
+769265,,2018-04-02 13:27:00,04/02/2018 01:27:00 PM,Austin (TX),Owner Surrender,Normal,Other,Unknown,1 year,Cold Water Mix,Black,2018-05-08 12:29:00,Adoption,Foster,35 days 23:02:00
+808197,*Elsa,2019-11-05 15:58:00,11/05/2019 03:58:00 PM,11507 Big Trail Cove in Austin (TX),Stray,Normal,Other,Intact Female,2 years,Californian Mix,White/Brown,2019-12-28 15:54:00,Adoption,,52 days 23:56:00
+812550,,2020-01-24 15:24:00,01/24/2020 03:24:00 PM,Austin (TX),Owner Surrender,Normal,Other,Neutered Male,10 months,Sugar Glider,Brown/Tan,2020-01-24 18:57:00,Adoption,,0 days 03:33:00
+803544,Axel,2019-09-02 16:13:00,09/02/2019 04:13:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,3 months,Guinea Pig,Tricolor,2019-11-03 13:08:00,Adoption,,61 days 20:55:00
+801326,*Fred Weasley,2019-08-02 16:05:00,08/02/2019 04:05:00 PM,8225 North 620 in Austin (TX),Stray,Normal,Other,Neutered Male,1 year,Ferret,Sable,2019-08-07 12:22:00,Adoption,,4 days 20:17:00
+703759,,2015-05-28 13:19:00,05/28/2015 01:19:00 PM,Austin (TX),Owner Surrender,Normal,Other,Unknown,5 months,Turtle Mix,Green,2015-05-30 18:24:00,Adoption,,2 days 05:05:00
+810775,*Queen,2019-12-19 18:46:00,12/19/2019 06:46:00 PM,4608 Leslie Avenue in Austin (TX),Stray,Normal,Other,Intact Female,1 year,Rabbit Sh,White,2020-01-23 13:36:00,Adoption,,34 days 18:50:00
+734228,*Audrey Hepb,2016-09-03 12:04:00,09/03/2016 12:04:00 PM,2815 Hwy 71 in Austin (TX),Public Assist,Normal,Other,Spayed Female,9 months,Rabbit Sh Mix,White/Tricolor,2016-09-24 19:17:00,Adoption,,21 days 07:13:00
+789425,,2019-02-21 14:42:00,02/21/2019 02:42:00 PM,Austin (TX),Owner Surrender,Normal,Other,Unknown,4 weeks,Mouse Mix,Chocolate,2019-02-22 16:06:00,Adoption,,1 days 01:24:00
+776628,*Tater Tot,2018-07-16 17:42:00,07/16/2018 05:42:00 PM,1900 Simond Avenue in Austin (TX),Stray,Normal,Other,Intact Male,1 year,Angora-French Mix,Brown,2018-08-17 14:16:00,Adoption,,31 days 20:34:00
+747627,*Dill,2017-04-22 13:04:00,04/22/2017 01:04:00 PM,403 E Ben White Blvd in Austin (TX),Stray,Normal,Other,Intact Male,1 year,Rabbit Sh Mix,Brown/White,2017-04-29 13:06:00,Adoption,,7 days 00:02:00
+777581,,2018-07-30 18:06:00,07/30/2018 06:06:00 PM,1814 Marcus Abrams Boulevard in Austin (TX),Stray,Normal,Other,Intact Male,1 year,Lop-Holland,Tan/Black,2018-08-08 17:11:00,Adoption,,8 days 23:05:00
+680393,*Oscar,2014-06-02 12:12:00,06/02/2014 12:12:00 PM,7402 Vintage Hills in Austin (TX),Public Assist,Sick,Other,Unknown,1 year,Cold Water,Gray/Orange,2014-06-06 19:27:00,Adoption,,4 days 07:15:00
+818334,,2020-06-05 15:22:00,06/05/2020 03:22:00 PM,5720 Palo Blanco Lane in Austin (TX),Stray,Normal,Other,Intact Male,2 years,Guinea Pig,White/Tan,2020-06-15 18:20:00,Adoption,,10 days 02:58:00
+821235,,2020-08-06 17:18:00,08/06/2020 05:18:00 PM,4715 Harmon Avenue in Austin (TX),Stray,Normal,Other,Neutered Male,2 years,Ferret,Sable/White,2020-09-09 13:16:00,Adoption,Foster,33 days 19:58:00
+801901,Popcorn,2019-08-11 12:06:00,08/11/2019 12:06:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,3 years,Guinea Pig,White/Tan,2019-08-14 15:07:00,Adoption,,3 days 03:01:00
+755585,*Fennel,2017-08-05 13:06:00,08/05/2017 01:06:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,5 months,Rabbit Sh Mix,White/Gray,2017-08-12 15:35:00,Adoption,,7 days 02:29:00
+698379,Dusty,2015-03-10 17:30:00,03/10/2015 05:30:00 PM,Melissa Oaks in Austin (TX),Stray,Normal,Other,Intact Female,1 year,Hamster,Fawn/White,2015-03-28 07:49:00,Adoption,Foster,17 days 14:19:00
+821766,,2020-08-18 17:38:00,08/18/2020 05:38:00 PM,8308 Flaxen Dr in Austin (TX),Stray,Injured,Other,Unknown,5 months,Rabbit Sh,Brown/White,2020-08-21 00:00:00,Adoption,,2 days 06:22:00
+811314,,2019-12-31 23:17:00,12/31/2019 11:17:00 PM,2100 Rabb in Austin (TX),Stray,Normal,Other,Unknown,1 year,Ferret,Brown/White,2020-01-04 12:49:00,Adoption,,3 days 13:32:00
+823952,Bert W/ Ernie,2020-10-02 12:31:00,10/02/2020 12:31:00 PM,124 W Anderson Lane in Austin (TX),Stray,Normal,Other,Unknown,1 year,Guinea Pig,Black,2020-10-06 18:47:00,Adoption,,4 days 06:16:00
+803325,Boop Snoot,2019-08-30 15:53:00,08/30/2019 03:53:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,5 months,Rat,White/Fawn,2019-09-03 17:01:00,Adoption,,4 days 01:08:00
+823416,Lenny,2020-09-23 12:43:00,09/23/2020 12:43:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,3 years,Hamster,Tan,2020-09-28 15:10:00,Adoption,Foster,5 days 02:27:00
+726183,Lucky,2016-05-07 13:54:00,05/07/2016 01:54:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,2 years,Rabbit Sh Mix,White,2016-06-25 14:38:00,Adoption,,49 days 00:44:00
+737487,Goo Gunny,2016-10-29 15:28:00,10/29/2016 03:28:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,2 years,Lop-Mini,Gray,2016-11-30 18:30:00,Adoption,Foster,32 days 03:02:00
+791581,Mr Cuddles,2019-03-27 17:42:00,03/27/2019 05:42:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,4 years,Rabbit Lh Mix,Brown,2019-04-10 19:04:00,Adoption,,14 days 01:22:00
+724628,*Slinky,2016-04-19 17:59:00,04/19/2016 05:59:00 PM,9400 West Palmer Lane in Austin (TX),Stray,Normal,Other,Unknown,1 year,Ferret,Sable/White,2016-04-23 00:00:00,Adoption,,3 days 06:01:00
+753732,,2017-07-10 13:19:00,07/10/2017 01:19:00 PM,Austin (TX),Owner Surrender,Normal,Other,Unknown,1 year,Rat Mix,White/Brown,2017-07-15 10:58:00,Adoption,Foster,4 days 21:39:00
+803219,Snowberry,2019-08-29 11:38:00,08/29/2019 11:38:00 AM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,1 year,Guinea Pig,White/Black,2019-09-14 15:56:00,Adoption,,16 days 04:18:00
+803327,Smudge,2019-08-30 15:53:00,08/30/2019 03:53:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,5 months,Rat,White/Black,2019-09-03 17:01:00,Adoption,,4 days 01:08:00
+797546,*Dwight,2019-06-14 15:10:00,06/14/2019 03:10:00 PM,Alomar Cove in Travis (TX),Stray,Normal,Other,Intact Male,3 years,Lop-Holland,White/Gray,2019-07-14 12:17:00,Adoption,,29 days 21:07:00
+812088,Yana,2020-01-15 15:43:00,01/15/2020 03:43:00 PM,Austin (TX),Owner Surrender,Normal,Other,Spayed Female,4 years,Rabbit Sh,Brown,2020-02-08 19:16:00,Adoption,,24 days 03:33:00
+767242,*Panda,2018-02-25 15:35:00,02/25/2018 03:35:00 PM,2000 Chatham Place in Austin (TX),Stray,Normal,Other,Intact Male,2 years,Californian Mix,White/Black,2018-03-30 17:08:00,Adoption,,33 days 01:33:00
+784655,*Benito,2018-11-18 12:43:00,11/18/2018 12:43:00 PM,6804 Starcrest Lane in Austin (TX),Stray,Normal,Other,Intact Male,1 year,Californian Mix,White/Gray,2018-11-24 18:07:00,Adoption,,6 days 05:24:00
+750711,*Dean,2017-05-30 16:02:00,05/30/2017 04:02:00 PM,Austin (TX),Stray,Normal,Other,Intact Male,5 months,Lop-Holland Mix,White,2017-10-19 07:48:00,Adoption,Foster,141 days 15:46:00
+779079,*Roo,2018-08-25 11:54:00,08/25/2018 11:54:00 AM,6304 Torres in Austin (TX),Stray,Normal,Other,Intact Male,5 months,Belgian Hare Mix,Brown,2018-09-06 15:30:00,Adoption,,12 days 03:36:00
+799235,*Carl,2019-07-06 11:53:00,07/06/2019 11:53:00 AM,6934 East Ben White in Austin (TX),Stray,Normal,Other,Intact Male,1 year,Lop-Amer Fuzzy,Gray,2019-07-20 13:03:00,Adoption,,14 days 01:10:00
+711671,,2015-09-10 13:52:00,09/10/2015 01:52:00 PM,2703 S Congress Ave in Austin (TX),Public Assist,Normal,Other,Intact Male,3 years,Rat Mix,Black/White,2015-09-20 17:41:00,Adoption,,10 days 03:49:00
+806799,*Thumper,2019-10-15 16:43:00,10/15/2019 04:43:00 PM,1912 East William Cannon in Austin (TX),Owner Surrender,Normal,Other,Neutered Male,11 months,Chinchilla-Amer,Blue,2019-12-20 19:22:00,Adoption,,66 days 02:39:00
+793045,Peter,2019-04-18 16:16:00,04/18/2019 04:16:00 PM,Pflugerville (TX),Owner Surrender,Normal,Other,Intact Male,5 months,New Zealand Wht Mix,White,2019-08-17 17:06:00,Adoption,,121 days 00:50:00
+721148,*Buzz,2016-02-22 12:49:00,02/22/2016 12:49:00 PM,Meehan Dr And Scofield Ln in Austin (TX),Stray,Normal,Other,Intact Male,1 year,Rabbit Sh,Gray/White,2016-03-04 17:18:00,Adoption,,11 days 04:29:00
+808196,*Olaf,2019-11-05 15:58:00,11/05/2019 03:58:00 PM,11507 Big Trail Cove in Austin (TX),Stray,Normal,Other,Intact Male,2 years,Californian,White/Gray,2019-12-21 19:19:00,Adoption,,46 days 03:21:00
+789427,,2019-02-21 14:42:00,02/21/2019 02:42:00 PM,Austin (TX),Owner Surrender,Normal,Other,Unknown,4 weeks,Mouse Mix,Chocolate,2019-02-22 16:06:00,Adoption,,1 days 01:24:00
+804909,,2019-09-20 14:03:00,09/20/2019 02:03:00 PM,9414 North Lamar in Austin (TX),Stray,Normal,Other,Intact Female,6 months,Guinea Pig,Black/White,2019-09-27 19:30:00,Adoption,,7 days 05:27:00
+803221,Mocha,2019-08-29 11:38:00,08/29/2019 11:38:00 AM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,1 year,Guinea Pig,White/Brown,2019-09-14 15:57:00,Adoption,,16 days 04:19:00
+778292,Slinky,2018-08-11 15:09:00,08/11/2018 03:09:00 PM,Austin (TX),Stray,Normal,Other,Neutered Male,2 years,Ferret,Buff,2018-08-14 19:10:00,Adoption,,3 days 04:01:00
+744210,Eevee,2017-02-25 11:20:00,02/25/2017 11:20:00 AM,Austin (TX),Owner Surrender,Normal,Other,Spayed Female,4 years,Ferret,White,2017-02-28 17:22:00,Adoption,,3 days 06:02:00
+769264,,2018-04-02 13:27:00,04/02/2018 01:27:00 PM,Austin (TX),Owner Surrender,Normal,Other,Unknown,1 year,Cold Water Mix,Gold,2018-05-08 12:29:00,Adoption,Foster,35 days 23:02:00
+753959,*Betty,2017-07-13 16:06:00,07/13/2017 04:06:00 PM,124 W Anderson Ln in Austin (TX),Stray,Normal,Other,Intact Female,2 years,Rabbit Sh Mix,Orange,2017-08-19 11:15:00,Adoption,,36 days 19:09:00
+801870,Stella,2019-08-10 15:03:00,08/10/2019 03:03:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,1 year,Lionhead,Tan/White,2019-08-21 17:15:00,Adoption,,11 days 02:12:00
+737813,,2016-11-04 18:32:00,11/04/2016 06:32:00 PM,701 West 51St in Austin (TX),Stray,Normal,Other,Neutered Male,2 years,Ferret,Sable,2016-11-08 00:00:00,Adoption,,3 days 05:28:00
+789835,,2019-02-28 13:44:00,02/28/2019 01:44:00 PM,4715 Harmon Avenue in Austin (TX),Stray,Normal,Other,Neutered Male,1 year,Ferret Mix,Tan,2019-03-04 12:06:00,Adoption,,3 days 22:22:00
+794171,Lola,2019-05-04 14:49:00,05/04/2019 02:49:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,4 months,Rabbit Sh Mix,Black,2019-06-15 13:40:00,Adoption,,41 days 22:51:00
+782669,Nala,2018-10-19 13:16:00,10/19/2018 01:16:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,7 years,Lop-Amer Fuzzy Mix,Tan,2018-11-08 11:53:00,Adoption,,19 days 22:37:00
+756365,April,2017-08-18 12:33:00,08/18/2017 12:33:00 PM,Travis (TX),Owner Surrender,Normal,Other,Intact Female,7 months,Hamster Mix,Tan/White,2017-08-19 09:24:00,Adoption,,0 days 20:51:00
+741365,*Violet,2016-12-31 15:03:00,12/31/2016 03:03:00 PM,1003 Fauntleroy Trail in Austin (TX),Stray,Normal,Other,Intact Female,1 year,Rex Mix,Blue,2017-02-11 12:39:00,Adoption,,41 days 21:36:00
+825185,Hawk,2020-10-29 15:24:00,10/29/2020 03:24:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,1 year,Guinea Pig,Calico,2020-11-07 14:14:00,Adoption,,8 days 22:50:00
+788383,Fric,2019-02-01 13:13:00,02/01/2019 01:13:00 PM,25613 River Fern Ct in Travis (TX),Owner Surrender,Normal,Other,Intact Female,1 year,Ferret Mix,White,2019-02-09 16:10:00,Adoption,,8 days 02:57:00
+750712,*Sam,2017-05-30 16:02:00,05/30/2017 04:02:00 PM,Austin (TX),Stray,Normal,Other,Intact Male,5 months,Lop-Holland Mix,White/Brown,2017-10-19 07:48:00,Adoption,Foster,141 days 15:46:00
+772961,Janis Hoplin,2018-05-25 13:37:00,05/25/2018 01:37:00 PM,1401 Grove Boulevard in Austin (TX),Stray,Normal,Other,Intact Female,1 year,Californian Mix,White/Black,2018-06-21 11:35:00,Adoption,,26 days 21:58:00
+743893,*Peter,2017-02-19 01:42:00,02/19/2017 01:42:00 AM,Peach Grove Rd in Austin (TX),Stray,Normal,Other,Intact Male,2 months,Rabbit Sh Mix,White/Gray,2017-04-30 14:31:00,Adoption,,70 days 12:49:00
+734250,,2016-09-03 12:04:00,09/03/2016 12:04:00 PM,2815 Hwy 71 in Austin (TX),Public Assist,Normal,Other,Intact Female,8 months,Rabbit Sh Mix,Black,2016-09-11 15:57:00,Adoption,,8 days 03:53:00
+794404,Timmy,2019-05-07 17:54:00,05/07/2019 05:54:00 PM,Austin (TX),Stray,Normal,Other,Intact Male,5 months,Rabbit Sh Mix,Black/White,2019-05-29 13:42:00,Adoption,,21 days 19:48:00
+742153,*Lola,2017-01-16 12:32:00,01/16/2017 12:32:00 PM,Austin (TX),Owner Surrender,Normal,Other,Spayed Female,1 year,English Spot,White/Brown,2017-02-11 15:11:00,Adoption,,26 days 02:39:00
+729642,*Penny,2016-06-21 14:50:00,06/21/2016 02:50:00 PM,Austin (TX),Stray,Sick,Other,Intact Female,1 year,Rabbit Sh Mix,White/Gray,2016-07-22 12:36:00,Adoption,,30 days 21:46:00
+746514,*Vivienne,2017-04-04 11:10:00,04/04/2017 11:10:00 AM,1901 E William Cannon Dr in Austin (TX),Stray,Normal,Other,Intact Male,2 months,Lionhead Mix,Black Smoke,2017-06-21 16:15:00,Adoption,,78 days 05:05:00
+693997,,2014-12-18 13:21:00,12/18/2014 01:21:00 PM,2100 East Saint Elmo Road in Austin (TX),Stray,Normal,Other,Neutered Male,1 year,Ferret Mix,Black/White,2014-12-23 14:23:00,Adoption,,5 days 01:02:00
+811080,Kiff,2019-12-27 15:19:00,12/27/2019 03:19:00 PM,3705 Commerce Street in Austin (TX),Stray,Normal,Other,Intact Male,1 year,Rabbit Sh,Black,2020-01-23 14:23:00,Adoption,,26 days 23:04:00
+783308,,2018-10-28 16:54:00,10/28/2018 04:54:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,1 year,Rat Mix,Black,2018-10-29 17:57:00,Adoption,,1 days 01:03:00
+821735,Big Pig,2020-08-18 11:50:00,08/18/2020 11:50:00 AM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,5 years,Guinea Pig,Black/Brown,2020-08-19 11:45:00,Adoption,,0 days 23:55:00
+744410,Babs,2017-02-28 13:34:00,02/28/2017 01:34:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,3 years,Rabbit Sh Mix,Brown,2017-03-08 13:47:00,Adoption,,8 days 00:13:00
+803326,Trey,2019-08-30 15:53:00,08/30/2019 03:53:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,5 months,Rat,White/Black,2019-09-03 17:01:00,Adoption,,4 days 01:08:00
+774441,*Bunny B,2018-06-15 20:02:00,06/15/2018 08:02:00 PM,Pond Springs And Anderson Mills in Austin (TX),Stray,Normal,Other,Intact Female,1 year,English Spot,White/Brown,2018-07-01 19:25:00,Adoption,,15 days 23:23:00
+808941,Sparkles,2019-11-16 13:50:00,11/16/2019 01:50:00 PM,Travis (TX),Owner Surrender,Normal,Other,Intact Female,5 months,Rat,White,2019-11-23 18:24:00,Adoption,,7 days 04:34:00
+822051,Pichachu,2020-08-25 11:30:00,08/25/2020 11:30:00 AM,Austin (TX),Owner Surrender,Normal,Other,Neutered Male,1 year,Rabbit Lh,White/Black,2020-09-20 13:49:00,Adoption,,26 days 02:19:00
+734223,*Espresso,2016-09-03 12:04:00,09/03/2016 12:04:00 PM,2815 Hwy 71 in Austin (TX),Public Assist,Normal,Other,Intact Female,2 months,Rabbit Sh Mix,Black,2016-12-11 17:37:00,Adoption,,99 days 05:33:00
+744627,*Fry,2017-03-04 12:59:00,03/04/2017 12:59:00 PM,7607 Blessing Avenue in Austin (TX),Stray,Injured,Other,Intact Male,1 month,Rabbit Sh Mix,White/Tan,2017-08-05 15:51:00,Adoption,Foster,154 days 02:52:00
+781692,*Snow,2018-10-03 21:06:00,10/03/2018 09:06:00 PM,Dewey St in Austin (TX),Stray,Normal,Other,Intact Male,1 year,Angora-French Mix,White,2018-10-14 15:48:00,Adoption,,10 days 18:42:00
+732029,*Velvet,2016-07-31 14:20:00,07/31/2016 02:20:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,3 years,Chinchilla-Amer Mix,Blue/White,2016-09-10 18:15:00,Adoption,,41 days 03:55:00
+800953,Mom,2019-07-29 12:56:00,07/29/2019 12:56:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,1 year,Guinea Pig,Buff,2019-08-02 12:38:00,Adoption,,3 days 23:42:00
+680394,*Oscar,2014-06-02 12:12:00,06/02/2014 12:12:00 PM,7402 Vintage Hills in Austin (TX),Public Assist,Sick,Other,Unknown,1 year,Cold Water,White/Orange,2014-06-06 19:27:00,Adoption,,4 days 07:15:00
+803293,,2019-08-30 13:12:00,08/30/2019 01:12:00 PM,8501 Cameron in Austin (TX),Stray,Normal,Other,Intact Male,5 months,Guinea Pig,Tricolor,2019-09-14 15:34:00,Adoption,,15 days 02:22:00
+753809,*Petunia,2017-07-11 14:08:00,07/11/2017 02:08:00 PM,10910 Thaxton in Austin (TX),Stray,Normal,Other,Intact Female,1 year,Rabbit Sh Mix,Brown/White,2017-09-07 14:43:00,Adoption,Foster,58 days 00:35:00
+755411,Mulder,2017-08-03 16:45:00,08/03/2017 04:45:00 PM,Enfield Road And West 15Th Street in Austin (TX),Stray,Normal,Other,Intact Male,1 year,Rabbit Sh Mix,Black,2017-08-14 15:33:00,Adoption,,10 days 22:48:00
+781411,Aj,2018-09-28 17:42:00,09/28/2018 05:42:00 PM,7602 Bethnue Avenue in Austin (TX),Stray,Normal,Other,Neutered Male,1 year,Rabbit Sh Mix,Black Smoke/Chocolate,2018-10-13 12:01:00,Adoption,,14 days 18:19:00
+813648,Ari,2020-02-15 11:04:00,02/15/2020 11:04:00 AM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,2 years,Hedgehog,Brown,2020-02-16 15:22:00,Adoption,,1 days 04:18:00
+761164,*Ella,2017-10-30 15:02:00,10/30/2017 03:02:00 PM,5400 Freidrich in Austin (TX),Stray,Normal,Other,Intact Female,2 years,Californian,White,2017-12-26 11:19:00,Adoption,,56 days 20:17:00
+730893,Sonny,2016-07-12 13:28:00,07/12/2016 01:28:00 PM,Outside Jurisdiction,Owner Surrender,Normal,Other,Intact Male,4 months,Rabbit Sh Mix,Black,2016-07-21 10:14:00,Adoption,,8 days 20:46:00
+812716,,2020-01-27 12:00:00,01/27/2020 12:00:00 PM,1100 South Lamar in Austin (TX),Stray,Normal,Other,Intact Male,2 years,Rabbit Sh Mix,White/Black,2020-02-15 18:01:00,Adoption,,19 days 06:01:00
+671996,*Walterwhite,2014-02-02 11:46:00,02/02/2014 11:46:00 AM,901 Park Village Cv in Austin (TX),Stray,Normal,Other,Neutered Male,1 year,Ferret,White/Gray,2014-03-04 14:06:00,Adoption,,30 days 02:20:00
+805525,Panchitas,2019-09-28 12:55:00,09/28/2019 12:55:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,4 months,Rex Mix,White/Black,2019-10-20 16:07:00,Adoption,,22 days 03:12:00
+744211,Meeko,2017-02-25 11:20:00,02/25/2017 11:20:00 AM,Austin (TX),Owner Surrender,Normal,Other,Neutered Male,4 years,Ferret,White,2017-02-28 17:22:00,Adoption,,3 days 06:02:00
+800958,*Mikey,2019-07-29 12:56:00,07/29/2019 12:56:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,2 months,Guinea Pig,Gray/Orange,2019-08-17 16:49:00,Adoption,,19 days 03:53:00
+756507,Rigby,2017-08-21 11:01:00,08/21/2017 11:01:00 AM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,5 months,Rabbit Sh Mix,Blue,2017-08-24 18:17:00,Adoption,,3 days 07:16:00
+808842,Bun B,2019-11-14 15:05:00,11/14/2019 03:05:00 PM,Travis (TX),Owner Surrender,Normal,Other,Neutered Male,6 years,Lop-Mini,Gray/White,2019-11-20 17:07:00,Adoption,,6 days 02:02:00
+805495,,2019-09-27 17:13:00,09/27/2019 05:13:00 PM,7406 Cyrstalbrook Drive in Austin (TX),Stray,Normal,Other,Intact Male,1 year,Guinea Pig,Gray/White,2019-10-01 17:26:00,Adoption,,4 days 00:13:00
+729336,Bunn Bunn,2016-06-16 13:55:00,06/16/2016 01:55:00 PM,Austin (TX),Owner Surrender,Normal,Other,Spayed Female,3 years,Rabbit Sh Mix,Brown Brindle,2016-06-17 15:31:00,Adoption,,1 days 01:36:00
+765669,Truffles,2018-01-24 13:43:00,01/24/2018 01:43:00 PM,Convict Hill Road & Escarpment Boulevard in Austin (TX),Stray,Normal,Other,Intact Female,1 year,Cinnamon Mix,Brown,2018-03-06 17:45:00,Adoption,,41 days 04:02:00
+806497,*Moo,2019-10-11 17:03:00,10/11/2019 05:03:00 PM,4509 St Elmo in Austin (TX),Stray,Normal,Other,Intact Female,4 months,Polish,White/White,2019-12-17 17:59:00,Adoption,,67 days 00:56:00
+793047,Arrow,2019-04-18 16:16:00,04/18/2019 04:16:00 PM,Pflugerville (TX),Owner Surrender,Normal,Other,Intact Male,4 months,New Zealand Wht Mix,White,2019-07-07 11:51:00,Adoption,,79 days 19:35:00
+743894,*Piper,2017-02-19 01:42:00,02/19/2017 01:42:00 AM,Peach Grove Rd in Austin (TX),Stray,Normal,Other,Intact Female,2 months,Rabbit Sh Mix,White/Gray,2017-04-30 14:31:00,Adoption,,70 days 12:49:00
+758691,Benji,2017-09-20 12:55:00,09/20/2017 12:55:00 PM,Austin (TX),Owner Surrender,Normal,Other,Neutered Male,6 months,Rabbit Sh,White/Gray,2017-09-23 16:06:00,Adoption,,3 days 03:11:00
+813767,Jack,2020-02-18 13:19:00,02/18/2020 01:19:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,1 year,Californian,White/Chocolate,2020-03-05 16:04:00,Adoption,,16 days 02:45:00
+734255,,2016-09-03 12:04:00,09/03/2016 12:04:00 PM,2815 Hwy 71 in Austin (TX),Public Assist,Normal,Other,Intact Female,3 months,Rabbit Sh Mix,White/Black,2016-09-13 12:40:00,Adoption,,10 days 00:36:00
+794529,,2019-05-09 13:50:00,05/09/2019 01:50:00 PM,7929 Gault in Austin (TX),Stray,Normal,Other,Spayed Female,4 months,Ferret,White/Brown,2019-05-21 16:50:00,Adoption,,12 days 03:00:00
+723392,Shiner,2016-03-31 12:59:00,03/31/2016 12:59:00 PM,1420 E Anderson Ln in Austin (TX),Stray,Normal,Other,Intact Male,1 year,Rabbit Sh Mix,White/Black,2016-04-08 21:49:00,Adoption,,8 days 08:50:00
+820294,Sweetie,2020-07-16 12:35:00,07/16/2020 12:35:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,1 year,Guinea Pig,Calico,2020-07-31 12:27:00,Adoption,,14 days 23:52:00
+750396,*Ember,2017-05-26 16:26:00,05/26/2017 04:26:00 PM,12010 Wycliff Ln in Austin (TX),Stray,Normal,Other,Spayed Female,2 years,Rabbit Sh Mix,White,2017-06-29 15:49:00,Adoption,,33 days 23:23:00
+808475,*Remy,2019-11-09 14:10:00,11/09/2019 02:10:00 PM,1307 Tuffit Lane in Austin (TX),Stray,Normal,Other,Unknown,1 year,New Zealand Wht,White,2019-12-21 18:19:00,Adoption,,42 days 04:09:00
+809451,Olive,2019-11-24 16:33:00,11/24/2019 04:33:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,3 months,Hamster,Black/White,2019-11-24 19:24:00,Adoption,,0 days 02:51:00
+721552,Carrots,2016-02-29 12:21:00,02/29/2016 12:21:00 PM,Austin (TX),Owner Surrender,Normal,Other,Spayed Female,1 year,Checkered Giant Mix,Black,2016-03-10 12:27:00,Adoption,,10 days 00:06:00
+716653,,2015-11-22 16:26:00,11/22/2015 04:26:00 PM,3000 Rexford Dr in Austin (TX),Stray,Normal,Other,Unknown,3 months,Rabbit Sh Mix,White/Black,2015-12-04 10:48:00,Adoption,Foster,11 days 18:22:00
+728318,*Jumper,2016-06-02 12:10:00,06/02/2016 12:10:00 PM,7100 Bluff Springs in Austin (TX),Stray,Normal,Other,Intact Male,1 year,Rabbit Sh Mix,Sable,2016-06-17 15:32:00,Adoption,,15 days 03:22:00
+762782,*Bun Jovi,2017-11-27 12:10:00,11/27/2017 12:10:00 PM,2200 Palmera in Austin (TX),Stray,Normal,Other,Intact Male,1 year,Californian,White,2017-12-20 17:22:00,Adoption,,23 days 05:12:00
+784729,*Klaus,2018-11-19 14:46:00,11/19/2018 02:46:00 PM,4608 Knottingwood Court in Austin (TX),Stray,Normal,Other,Intact Male,1 year,Californian Mix,White/Black,2018-12-08 17:57:00,Adoption,,19 days 03:11:00
+812087,Basil,2020-01-15 15:43:00,01/15/2020 03:43:00 PM,Austin (TX),Owner Surrender,Normal,Other,Neutered Male,6 years,Rabbit Sh,Gray/White,2020-02-10 18:29:00,Adoption,,26 days 02:46:00
+784233,Winslow,2018-11-13 12:02:00,11/13/2018 12:02:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,1 year,Guinea Pig,Tricolor,2018-11-14 19:56:00,Adoption,,1 days 07:54:00
+750378,*Anise,2017-05-26 14:52:00,05/26/2017 02:52:00 PM,"11411 Research Blvd, 1116 in Austin (TX)",Public Assist,Normal,Other,Spayed Female,2 years,Lionhead Mix,Gray/Black,2017-06-29 11:58:00,Adoption,,33 days 21:06:00
+751154,Barney,2017-06-04 15:47:00,06/04/2017 03:47:00 PM,6506 High Point Cove in Austin (TX),Stray,Normal,Other,Intact Male,2 weeks,Havana Mix,Black,2017-09-17 15:45:00,Adoption,,104 days 23:58:00
+795394,*Siouxsie,2019-05-20 11:37:00,05/20/2019 11:37:00 AM,12907 Armstrong Ave in Manor (TX),Stray,Normal,Other,Intact Female,2 years,Lionhead,Gray,2019-06-07 18:58:00,Adoption,,18 days 07:21:00
+763086,Chapita,2017-12-02 16:26:00,12/02/2017 04:26:00 PM,Austin (TX),Stray,Normal,Other,Intact Male,2 years,American,White,2018-02-10 18:55:00,Adoption,,70 days 02:29:00
+791330,Vlad,2019-03-24 14:28:00,03/24/2019 02:28:00 PM,11201 Selma Drive in Austin (TX),Owner Surrender,Normal,Other,Intact Female,1 year,American Mix,Black,2019-04-11 12:46:00,Adoption,,17 days 22:18:00
+800956,*Biff,2019-07-29 12:56:00,07/29/2019 12:56:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,2 months,Guinea Pig,Black/Orange,2019-08-13 18:52:00,Adoption,,15 days 05:56:00
+751801,*Houdini,2017-06-13 11:40:00,06/13/2017 11:40:00 AM,12612  Limerick Ave in Austin (TX),Stray,Normal,Other,Intact Male,1 year,Rabbit Sh Mix,White,2017-08-12 16:00:00,Adoption,,60 days 04:20:00
+792921,,2019-04-17 11:45:00,04/17/2019 11:45:00 AM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,6 months,Ferret Mix,Tricolor,2019-04-19 12:10:00,Adoption,,2 days 00:25:00
+736957,*Nugget,2016-10-20 10:12:00,10/20/2016 10:12:00 AM,8501 Cameron Rd in Austin (TX),Stray,Normal,Other,Intact Male,3 months,English Spot Mix,White/Tan,2016-11-23 11:33:00,Adoption,,34 days 01:21:00
+734252,,2016-09-03 12:04:00,09/03/2016 12:04:00 PM,2815 Hwy 71 in Austin (TX),Public Assist,Normal,Other,Intact Female,8 months,Rabbit Sh Mix,White/Blue,2016-09-18 10:43:00,Adoption,,14 days 22:39:00
+795607,Kisses,2019-05-22 13:59:00,05/22/2019 01:59:00 PM,Austin (TX),Owner Surrender,Injured,Other,Neutered Male,1 year,Rabbit Sh,Brown/White,2019-06-02 18:55:00,Adoption,,11 days 04:56:00
+820297,Cookie,2020-07-16 12:35:00,07/16/2020 12:35:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,7 months,Guinea Pig,Calico,2020-07-31 19:22:00,Adoption,,15 days 06:47:00
+731724,*Shadow,2016-07-26 15:14:00,07/26/2016 03:14:00 PM,4601 Best Way in Austin (TX),Stray,Normal,Other,Intact Male,5 months,Rabbit Sh Mix,Black,2016-08-07 15:47:00,Adoption,,12 days 00:33:00
+753290,Meow,2017-07-04 13:18:00,07/04/2017 01:18:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,7 years,Ferret,Black/Gray,2017-07-07 14:45:00,Adoption,,3 days 01:27:00
+783512,*Johnny,2018-10-31 20:52:00,10/31/2018 08:52:00 PM,Bramhill in Austin (TX),Stray,Normal,Other,Intact Male,6 months,Lop-Mini/Lop-Holland,Black,2018-11-25 13:39:00,Adoption,,24 days 16:47:00
+744409,Pixel,2017-02-28 13:34:00,02/28/2017 01:34:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,3 years,Rabbit Sh Mix,White,2017-03-08 13:46:00,Adoption,,8 days 00:12:00
+797987,*Cocoa,2019-06-19 18:58:00,06/19/2019 06:58:00 PM,1500 Royal Crest Drive in Austin (TX),Stray,Normal,Other,Intact Female,1 year,Rabbit Sh,Black,2019-07-20 12:14:00,Adoption,,30 days 17:16:00
+789431,,2019-02-21 14:42:00,02/21/2019 02:42:00 PM,Austin (TX),Owner Surrender,Normal,Other,Unknown,4 weeks,Mouse Mix,Brown,2019-02-22 16:07:00,Adoption,,1 days 01:25:00
+812624,,2020-01-25 16:22:00,01/25/2020 04:22:00 PM,13605 Sea Biscut Drive in Austin (TX),Stray,Normal,Other,Intact Male,2 years,Rabbit Sh,White/Brown,2020-01-31 12:49:00,Adoption,,5 days 20:27:00
+789428,,2019-02-21 14:42:00,02/21/2019 02:42:00 PM,Austin (TX),Owner Surrender,Normal,Other,Unknown,4 weeks,Mouse Mix,Chocolate,2019-02-22 16:07:00,Adoption,,1 days 01:25:00
+690316,*Cappucino,2014-10-18 11:59:00,10/18/2014 11:59:00 AM,Pond Springs Rd in Travis (TX),Stray,Normal,Other,Spayed Female,6 months,Ferret Mix,Chocolate Point/Cream,2014-10-22 18:34:00,Adoption,,4 days 06:35:00
+761154,Sparkles,2017-10-30 13:01:00,10/30/2017 01:01:00 PM,8033 Gessner in Austin (TX),Stray,Normal,Other,Intact Female,6 months,Rabbit Sh Mix,Brown,2017-11-17 16:05:00,Adoption,,18 days 03:04:00
+760640,,2017-10-21 17:15:00,10/21/2017 05:15:00 PM,8404 Burrell in Austin (TX),Stray,Normal,Other,Unknown,1 year,Snake Mix,Gray/Brown,2017-10-25 17:02:00,Adoption,,3 days 23:47:00
+793880,*Michael,2019-05-01 13:39:00,05/01/2019 01:39:00 PM,1321 Mckie Cv in Austin (TX),Stray,Normal,Other,Intact Male,2 years,Rabbit Sh Mix,White/Tan,2019-05-15 18:11:00,Adoption,,14 days 04:32:00
+744485,*Leela,2017-03-02 08:58:00,03/02/2017 08:58:00 AM,4600 Nuckols Crossing in Austin (TX),Stray,Normal,Other,Intact Female,1 month,Lop-Holland Mix,Blue,2017-06-10 14:07:00,Adoption,,100 days 05:09:00
+751018,Oreo,2017-06-03 11:59:00,06/03/2017 11:59:00 AM,6506 High Point Cove in Austin (TX),Stray,Normal,Other,Intact Female,2 weeks,Rabbit Sh Mix,Black/White,2017-09-02 14:30:00,Adoption,Foster,91 days 02:31:00
+735359,*Mozart,2016-09-23 07:54:00,09/23/2016 07:54:00 AM,7201 Levander Loop in Austin (TX),Stray,Normal,Other,Intact Male,1 month,Lionhead Mix,Black,2017-01-02 19:54:00,Adoption,Foster,101 days 12:00:00
+802457,Winnie,2019-08-18 12:58:00,08/18/2019 12:58:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,1 year,Lop-Mini,Brown,2019-08-26 14:41:00,Adoption,,8 days 01:43:00
+773933,Nugget,2018-06-07 15:27:00,06/07/2018 03:27:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,6 months,Californian,White/Black,2018-07-14 12:41:00,Adoption,,36 days 21:14:00
+741225,Yolyo,2016-12-29 15:09:00,12/29/2016 03:09:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,4 years,Lop-English Mix,Black/White,2017-01-18 09:18:00,Adoption,,19 days 18:09:00
+764736,Walter White,2018-01-05 11:54:00,01/05/2018 11:54:00 AM,Austin (TX),Owner Surrender,Normal,Other,Neutered Male,8 months,Lop-Mini Mix,Black,2018-01-07 15:22:00,Adoption,,2 days 03:28:00
+806137,Benito,2019-10-06 11:11:00,10/06/2019 11:11:00 AM,Austin (TX),Owner Surrender,Normal,Other,Unknown,5 months,Guinea Pig,Tricolor,2019-10-18 19:41:00,Adoption,,12 days 08:30:00
+759835,*Eleven,2017-10-08 11:58:00,10/08/2017 11:58:00 AM,1318 Southpoint in Austin (TX),Stray,Normal,Other,Intact Female,2 years,Dutch Mix,Gray/White,2017-11-09 13:17:00,Adoption,,32 days 01:19:00
+807312,,2019-10-23 15:18:00,10/23/2019 03:18:00 PM,1215 West Slaughter Lane in Austin (TX),Stray,Normal,Other,Intact Female,1 year,Guinea Pig,Brown,2019-10-27 15:44:00,Adoption,,4 days 00:26:00
+806606,,2019-10-13 11:58:00,10/13/2019 11:58:00 AM,Amherst Drive And Duval Road in Austin (TX),Stray,Normal,Other,Intact Female,6 months,Guinea Pig,White/Tan,2019-10-29 16:34:00,Adoption,,16 days 04:36:00
+773265,Bella,2018-05-29 17:05:00,05/29/2018 05:05:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,1 year,Himalayan Mix,White/Black,2018-07-14 12:41:00,Adoption,,45 days 19:36:00
+770350,Whiskers,2018-04-18 14:50:00,04/18/2018 02:50:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,2 years,Californian Mix,White/Black,2018-05-20 18:45:00,Adoption,,32 days 03:55:00
+779562,*Biggie,2018-09-02 16:10:00,09/02/2018 04:10:00 PM,Rainy Street And Davis Street in Austin (TX),Stray,Normal,Other,Intact Male,1 year,Flemish Giant Mix,Brown,2018-09-19 12:31:00,Adoption,,16 days 20:21:00
+749831,Hopo Chico,2017-05-20 11:22:00,05/20/2017 11:22:00 AM,2302 Durwood in Austin (TX),Stray,Normal,Other,Intact Male,2 years,English Spot Mix,White/Black,2017-05-26 19:32:00,Adoption,,6 days 08:10:00
+725659,Mercedes,2016-05-01 13:40:00,05/01/2016 01:40:00 PM,13720 Harris Ridge Blvd in Austin (TX),Stray,Normal,Other,Intact Female,1 year,Havana Mix,Black/Chocolate,2016-05-30 11:19:00,Adoption,,28 days 21:39:00
+721062,Puck,2016-02-20 15:05:00,02/20/2016 03:05:00 PM,Travis (TX),Owner Surrender,Normal,Other,Intact Male,2 years,Turtle Mix,Brown/Green,2016-02-20 17:18:00,Adoption,,0 days 02:13:00
+742160,*Rhubarb,2017-01-16 15:28:00,01/16/2017 03:28:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,1 month,Netherlnd Dwarf Mix,Black/White,2017-04-16 18:41:00,Adoption,Offsite,90 days 03:13:00
+786259,*Kwan,2018-12-20 15:00:00,12/20/2018 03:00:00 PM,2101 Rio Grande Street in Austin (TX),Stray,Normal,Other,Neutered Male,2 years,Netherlnd Dwarf Mix,Gray/White,2019-03-04 13:16:00,Adoption,Foster,73 days 22:16:00
+820296,Ginger,2020-07-16 12:35:00,07/16/2020 12:35:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,7 months,Guinea Pig,Brown/White,2020-07-28 08:24:00,Adoption,Foster,11 days 19:49:00
+754269,*Carmelo,2017-07-18 11:45:00,07/18/2017 11:45:00 AM,Edar Bend Drive And Alderbrook Drive in Austin (TX),Stray,Normal,Other,Intact Male,3 months,Rabbit Sh Mix,Orange/White,2017-07-28 14:25:00,Adoption,,10 days 02:40:00
+769263,,2018-04-02 13:27:00,04/02/2018 01:27:00 PM,Austin (TX),Owner Surrender,Normal,Other,Unknown,1 year,Cold Water Mix,Gold,2018-05-08 12:29:00,Adoption,Foster,35 days 23:02:00
+751013,Mochi,2017-06-03 11:59:00,06/03/2017 11:59:00 AM,6506 High Point Cove in Austin (TX),Stray,Normal,Other,Intact Female,3 months,Rabbit Sh Mix,Black,2017-08-22 11:30:00,Adoption,,79 days 23:31:00
+724993,*Charlemagne,2016-04-24 07:51:00,04/24/2016 07:51:00 AM,12034 Research Blvd in Austin (TX),Stray,Normal,Other,Neutered Male,1 year,Californian,White/Black,2016-05-27 18:29:00,Adoption,,33 days 10:38:00
+775452,*Patricia C.,2018-06-30 11:57:00,06/30/2018 11:57:00 AM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,1 year,Californian,White/Black,2019-03-06 18:56:00,Adoption,Foster,249 days 06:59:00
+820842,*Juniper,2020-07-30 13:07:00,07/30/2020 01:07:00 PM,Austin (TX),Owner Surrender,Normal,Other,Unknown,2 years,Guinea Pig,Tricolor,2020-08-04 07:12:00,Adoption,Foster,4 days 18:05:00
+728897,*Larry,2016-06-10 12:06:00,06/10/2016 12:06:00 PM,Waterford Run Way in Travis (TX),Stray,Normal,Other,Neutered Male,1 year,Rabbit Sh Mix,White/Black,2016-07-06 15:55:00,Adoption,,26 days 03:49:00
+731799,*Cocoa,2016-07-27 15:46:00,07/27/2016 03:46:00 PM,105 Deed Ave in Austin (TX),Stray,Other,Other,Intact Female,1 year,Rabbit Sh Mix,Black,2016-08-05 19:07:00,Adoption,,9 days 03:21:00
+821734,Richard,2020-08-18 11:50:00,08/18/2020 11:50:00 AM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,5 years,Guinea Pig,Black,2020-08-19 11:45:00,Adoption,,0 days 23:55:00
+813519,Snow,2020-02-13 16:43:00,02/13/2020 04:43:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,1 year,New Zealand Wht,White,2020-02-16 17:03:00,Adoption,,3 days 00:20:00
+813768,Humphrey,2020-02-18 13:19:00,02/18/2020 01:19:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,1 year,Rabbit Sh,White/Chocolate,2020-02-21 17:40:00,Adoption,,3 days 04:21:00
+800957,*Joey,2019-07-29 12:56:00,07/29/2019 12:56:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,2 months,Guinea Pig,Gray/Orange,2019-08-17 16:49:00,Adoption,,19 days 03:53:00
+804623,*Boba Ferret,2019-09-16 15:00:00,09/16/2019 03:00:00 PM,Austin (TX),Stray,Sick,Other,Neutered Male,7 years,Ferret,White,2019-10-08 12:22:00,Adoption,,21 days 21:22:00
+802761,*Nestle,2019-08-22 13:37:00,08/22/2019 01:37:00 PM,11506 Morgans Point Street in Manor (TX),Stray,Normal,Other,Intact Female,1 year,Rabbit Sh,Chocolate/White,2019-09-27 18:13:00,Adoption,,36 days 04:36:00
+777841,Chewy,2018-08-04 12:01:00,08/04/2018 12:01:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,7 months,Guinea Pig Mix,Black/White,2018-08-05 16:01:00,Adoption,,1 days 04:00:00
+799816,*Caramel,2019-07-12 11:10:00,07/12/2019 11:10:00 AM,Mayo And Mooreland in Austin (TX),Stray,Normal,Other,Intact Female,1 year,Rabbit Sh,Sable,2019-09-03 12:53:00,Adoption,,53 days 01:43:00
+743076,*Gus,2017-02-03 13:11:00,02/03/2017 01:11:00 PM,Outside Jurisdiction,Stray,Normal,Other,Intact Male,1 year,English Spot Mix,White/Black,2017-03-01 18:38:00,Adoption,,26 days 05:27:00
+812393,Dora,2020-01-21 18:51:00,01/21/2020 06:51:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,1 year,Netherlnd Dwarf,Brown,2020-01-24 15:51:00,Adoption,,2 days 21:00:00
+751016,*Lavender,2017-06-03 11:59:00,06/03/2017 11:59:00 AM,6506 High Point Cove in Austin (TX),Stray,Normal,Other,Intact Female,7 months,Rabbit Sh Mix,Blue,2017-06-26 17:02:00,Adoption,,23 days 05:03:00
+757237,Lola,2017-08-31 16:26:00,08/31/2017 04:26:00 PM,9400 Tanager Way in Austin (TX),Stray,Normal,Other,Intact Female,1 year,Lionhead Mix,White/Brown,2017-09-15 14:06:00,Adoption,,14 days 21:40:00
+721061,Cutie,2016-02-20 15:05:00,02/20/2016 03:05:00 PM,Travis (TX),Owner Surrender,Normal,Other,Intact Female,8 months,Turtle Mix,Brown/Green,2016-02-20 17:23:00,Adoption,,0 days 02:18:00
+803291,,2019-08-30 13:12:00,08/30/2019 01:12:00 PM,8501 Cameron in Austin (TX),Stray,Normal,Other,Intact Male,1 year,Guinea Pig,Tricolor,2019-09-14 15:39:00,Adoption,,15 days 02:27:00
+722723,*Palmer,2016-03-21 15:00:00,03/21/2016 03:00:00 PM,1881 Grove St in Austin (TX),Stray,Normal,Other,Intact Female,1 year,Lop-Mini,Chocolate,2016-04-08 12:55:00,Adoption,,17 days 21:55:00
+753513,*Mia,2017-07-07 15:20:00,07/07/2017 03:20:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,2 years,Rabbit Sh Mix,White,2017-08-07 17:29:00,Adoption,,31 days 02:09:00
+747875,Willow,2017-04-26 11:01:00,04/26/2017 11:01:00 AM,Austin (TX),Owner Surrender,Normal,Other,Spayed Female,2 years,Rabbit Sh Mix,Brown,2017-05-02 12:17:00,Adoption,,6 days 01:16:00
+795583,*Drake,2019-05-22 12:19:00,05/22/2019 12:19:00 PM,Alderbrook Drive And Lamplight Village Avenue in Austin (TX),Stray,Normal,Other,Intact Male,1 year,Rabbit Sh,Brown/White,2019-06-07 18:54:00,Adoption,,16 days 06:35:00
+789590,,2019-02-24 11:47:00,02/24/2019 11:47:00 AM,2601 Scofield Ridge Parkway in Austin (TX),Stray,Normal,Other,Spayed Female,1 year,Ferret Mix,White/Chocolate,2019-03-01 13:17:00,Adoption,,5 days 01:30:00
+793756,Nugget,2019-04-29 14:05:00,04/29/2019 02:05:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,1 year,Californian Mix,White/Black,2019-05-29 13:42:00,Adoption,,29 days 23:37:00
+761488,Athena,2017-11-05 16:43:00,11/05/2017 04:43:00 PM,4821 East River Drive in Austin (TX),Stray,Normal,Other,Intact Female,1 year,Flemish Giant,White,2018-01-14 19:13:00,Adoption,,70 days 02:30:00
+771165,,2018-05-01 13:30:00,05/01/2018 01:30:00 PM,9920 Derecho Drive in Austin (TX),Stray,Normal,Other,Unknown,1 year,Guinea Pig Mix,Black,2018-05-05 14:40:00,Adoption,,4 days 01:10:00
+802234,Rusty,2019-08-15 15:00:00,08/15/2019 03:00:00 PM,Manor (TX),Owner Surrender,Normal,Other,Intact Male,1 year,Guinea Pig,White/Tricolor,2019-08-17 16:22:00,Adoption,,2 days 01:22:00
+730829,*Floppy,2016-07-11 12:13:00,07/11/2016 12:13:00 PM,Us 290 & Fm 973 in Manor (TX),Stray,Normal,Other,Intact Male,1 year,Rabbit Sh Mix,White,2016-08-26 18:16:00,Adoption,,46 days 06:03:00
+777555,*Oreo,2018-07-30 14:20:00,07/30/2018 02:20:00 PM,12405 River Bend in Austin (TX),Stray,Normal,Other,Intact Female,1 year,Havana Mix,Black,2018-08-15 16:31:00,Adoption,,16 days 02:11:00
+752075,*Benny,2017-06-17 14:28:00,06/17/2017 02:28:00 PM,1704 Nelms Dr in Austin (TX),Stray,Normal,Other,Intact Male,11 months,Rabbit Sh Mix,Black,2017-07-12 18:26:00,Adoption,,25 days 03:58:00
+734232,Jackie,2016-09-03 12:04:00,09/03/2016 12:04:00 PM,2815 Hwy 71 in Austin (TX),Public Assist,Normal,Other,Intact Female,8 months,Rabbit Sh Mix,Agouti,2016-09-14 11:32:00,Adoption,,10 days 23:28:00
+779441,,2018-09-01 08:33:00,09/01/2018 08:33:00 AM,12034 Research Blvd in Austin (TX),Stray,Injured,Other,Intact Male,2 years,Hedgehog,Brown,2018-09-05 16:48:00,Adoption,,4 days 08:15:00
+750377,*Ginger,2017-05-26 14:52:00,05/26/2017 02:52:00 PM,"11411 Research Blvd, 1116 in Austin (TX)",Public Assist,Normal,Other,Spayed Female,2 years,Rabbit Sh Mix,Brown/White,2017-06-29 11:59:00,Adoption,,33 days 21:07:00
+706838,,2015-07-03 19:31:00,07/03/2015 07:31:00 PM,4413 Garnett St in Austin (TX),Owner Surrender,Normal,Other,Unknown,4 weeks,Turtle,Green,2015-07-04 15:22:00,Adoption,,0 days 19:51:00
+800955,*Fabio,2019-07-29 12:56:00,07/29/2019 12:56:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,2 months,Guinea Pig,Orange/Black,2019-08-13 18:52:00,Adoption,,15 days 05:56:00
+725063,,2016-04-25 13:24:00,04/25/2016 01:24:00 PM,2104 Coats Cv in Austin (TX),Stray,Normal,Other,Unknown,1 year,Ferret Mix,Sable/White,2016-05-01 16:42:00,Adoption,,6 days 03:18:00
+825186,Oreo,2020-10-29 15:24:00,10/29/2020 03:24:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,1 year,Guinea Pig,Black/White,2020-11-07 14:15:00,Adoption,,8 days 22:51:00
+760151,*Hopper,2017-10-13 13:58:00,10/13/2017 01:58:00 PM,2015 Cedar Bend in Austin (TX),Stray,Normal,Other,Intact Male,4 months,Rabbit Sh Mix,Black/White,2017-11-08 17:22:00,Adoption,,26 days 03:24:00
+731376,Alice,2016-07-21 11:50:00,07/21/2016 11:50:00 AM,1200 Wickersham Ln in Austin (TX),Stray,Normal,Other,Intact Female,2 months,Rabbit Sh Mix,Tortie,2016-08-11 13:23:00,Adoption,,21 days 01:33:00
+825187,Smoke,2020-10-29 15:24:00,10/29/2020 03:24:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,1 year,Guinea Pig,Black/White,2020-11-07 14:15:00,Adoption,,8 days 22:51:00
+730336,*Holli,2016-07-02 12:36:00,07/02/2016 12:36:00 PM,Little Pebble Dr & Mearns Meadow in Austin (TX),Wildlife,Normal,Other,Intact Female,1 year,Rabbit Lh Mix,White,2016-09-10 13:58:00,Adoption,,70 days 01:22:00
+804212,Wisdom,2019-09-11 17:46:00,09/11/2019 05:46:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,5 months,Rabbit Sh,Black,2019-09-28 17:04:00,Adoption,,16 days 23:18:00
+775161,*Cinnabun,2018-06-26 14:14:00,06/26/2018 02:14:00 PM,Spyglass Drive And Barton Skyway in Austin (TX),Stray,Normal,Other,Intact Male,1 year,Californian Mix,White/Black,2018-11-03 17:40:00,Adoption,,130 days 03:26:00
+728898,*Curly,2016-06-10 12:06:00,06/10/2016 12:06:00 PM,Waterford Run Way in Travis (TX),Stray,Normal,Other,Spayed Female,1 year,Rabbit Sh Mix,White/Black,2016-06-23 17:22:00,Adoption,,13 days 05:16:00
+775061,Rabbitdeniro,2018-06-23 17:00:00,06/23/2018 05:00:00 PM,4705 Glissman in Austin (TX),Stray,Normal,Other,Intact Male,1 year,Rabbit Sh Mix,White/Black,2018-08-10 12:49:00,Adoption,,47 days 19:49:00
+800954,Nellie,2019-12-07 14:12:00,12/07/2019 02:12:00 PM,Outside Jurisdiction,Owner Surrender,Normal,Other,Intact Female,8 months,Guinea Pig,Chocolate,2019-12-07 18:17:00,Adoption,,0 days 04:05:00
+803296,,2019-08-30 13:12:00,08/30/2019 01:12:00 PM,8501 Cameron in Austin (TX),Stray,Normal,Other,Intact Female,5 months,Guinea Pig,Tricolor,2019-09-10 13:39:00,Adoption,,11 days 00:27:00
+810960,Honey,2019-12-23 15:40:00,12/23/2019 03:40:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,6 months,Hamster,White/Tan,2019-12-28 11:46:00,Adoption,,4 days 20:06:00
+753518,Stewart,2017-07-07 16:01:00,07/07/2017 04:01:00 PM,4605 Candletree in Austin (TX),Stray,Normal,Other,Intact Male,1 year,Rabbit Sh Mix,Black/White,2017-07-27 18:26:00,Adoption,,20 days 02:25:00
+793351,*Biscuit,2019-04-23 18:03:00,04/23/2019 06:03:00 PM,2300 Teri Road in Austin (TX),Stray,Normal,Other,Spayed Female,2 years,Rabbit Sh Mix,White,2019-08-17 16:39:00,Adoption,,115 days 22:36:00
+802533,Sparkle Toes,2019-08-19 16:14:00,08/19/2019 04:14:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,1 year,Ferret,Sable,2019-08-20 14:03:00,Adoption,,0 days 21:49:00
+805433,,2019-09-26 18:36:00,09/26/2019 06:36:00 PM,1801 East 51St Street in Austin (TX),Stray,Normal,Other,Unknown,2 years,Guinea Pig,Calico,2019-09-30 15:09:00,Adoption,,3 days 20:33:00
+734235,*Elizabun Ta,2016-09-03 12:04:00,09/03/2016 12:04:00 PM,2815 Hwy 71 in Austin (TX),Public Assist,Normal,Other,Spayed Female,6 months,Rabbit Sh Mix,White/Tricolor,2016-10-29 15:56:00,Adoption,,56 days 03:52:00
+729611,Hopkins,2016-06-21 11:26:00,06/21/2016 11:26:00 AM,Travis (TX),Owner Surrender,Normal,Other,Intact Male,2 years,Rabbit Sh Mix,White/Black,2016-07-11 15:44:00,Adoption,,20 days 04:18:00
+805692,Messi,2019-09-30 18:28:00,09/30/2019 06:28:00 PM,Travis (TX),Owner Surrender,Normal,Other,Intact Male,3 years,Rabbit Sh,Tricolor,2019-10-18 17:27:00,Adoption,,17 days 22:59:00
+820299,Blossom,2020-07-16 12:35:00,07/16/2020 12:35:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,7 months,Guinea Pig,Brown/White,2020-07-28 08:24:00,Adoption,Foster,11 days 19:49:00
+743892,,2017-02-19 01:42:00,02/19/2017 01:42:00 AM,Peach Grove Rd in Austin (TX),Stray,Normal,Other,Intact Male,2 months,Rabbit Sh Mix,White/Brown,2017-06-17 12:08:00,Adoption,Foster,118 days 10:26:00
+795663,Sophie,2019-05-23 11:52:00,05/23/2019 11:52:00 AM,Austin (TX),Owner Surrender,Normal,Other,Spayed Female,3 years,Netherlnd Dwarf,Black/White,2019-05-27 12:22:00,Adoption,,4 days 00:30:00
+779559,Scooter,2018-09-02 15:12:00,09/02/2018 03:12:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,9 months,Guinea Pig Mix,Tricolor,2018-09-22 11:36:00,Adoption,,19 days 20:24:00
+743407,*Clover,2017-02-09 18:10:00,02/09/2017 06:10:00 PM,2011 E 6Th in Austin (TX),Stray,Normal,Other,Intact Female,1 year,Rabbit Sh Mix,Sable,2017-04-01 13:54:00,Adoption,,50 days 19:44:00
+813165,*Marshmallow,2020-02-05 10:57:00,02/05/2020 10:57:00 AM,Fm 973 And Shadowglen Trace in Travis (TX),Stray,Normal,Other,Intact Female,2 years,Rabbit Sh,White,2020-02-15 12:37:00,Adoption,,10 days 01:40:00
+808943,*Jolly,2019-11-16 13:50:00,11/16/2019 01:50:00 PM,Travis (TX),Owner Surrender,Normal,Other,Unknown,3 months,Rat,White/Gray,2019-11-18 18:21:00,Adoption,,2 days 04:31:00
+714678,Lydia,2015-10-26 17:37:00,10/26/2015 05:37:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,6 months,Hamster,Black/White,2015-10-27 12:28:00,Adoption,Foster,0 days 18:51:00
+826601,,2020-12-02 09:51:00,12/02/2020 09:51:00 AM,12101 Dessau Road in Austin (TX),Stray,Sick,Other,Unknown,1 year,Rabbit Sh,Chocolate/White,2020-12-06 11:22:00,Adoption,,4 days 01:31:00
+826013,*Sweet Potato,2020-11-25 16:02:00,11/25/2020 04:02:00 PM,8225 North Fm 620 Road in Austin (TX),Stray,Normal,Other,Intact Male,2 years,Rabbit Sh,Brown,2020-12-12 17:05:00,Adoption,,17 days 01:03:00
+826064,*James Bond,2020-11-18 15:31:00,11/18/2020 03:31:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,3 years,Rex,Black/White,2020-12-15 14:40:00,Adoption,,26 days 23:09:00
+827188,Ralston,2020-12-15 16:59:00,12/15/2020 04:59:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Male,7 months,Rabbit Sh,Black,2020-12-18 15:57:00,Adoption,,2 days 22:58:00
+826688,Lola,2020-12-03 15:10:00,12/03/2020 03:10:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,2 years,Rex,White/Black,2020-12-17 14:43:00,Adoption,,13 days 23:33:00
+827231,Snowball Bunnicula,2020-12-16 15:46:00,12/16/2020 03:46:00 PM,Austin (TX),Owner Surrender,Normal,Other,Intact Female,7 months,Rabbit Sh,White/Seal Point,2020-12-18 15:53:00,Adoption,,2 days 00:07:00
+825272,*Moe,2020-10-31 12:02:00,10/31/2020 12:02:00 PM,9828 Great Hills in Austin (TX),Abandoned,Normal,Other,Intact Male,2 years,Rabbit Sh,Brown,2020-12-19 10:23:00,Adoption,Foster,48 days 22:21:00
+827499,Cc,2020-12-23 10:52:00,12/23/2020 10:52:00 AM,Austin (TX),Owner Surrender,Normal,Other,Unknown,2 months,Guinea Pig,White/Tricolor,2020-12-31 10:57:00,Adoption,,8 days 00:05:00
+827627,,2020-12-28 11:41:00,12/28/2020 11:41:00 AM,6103 Bullard Dr in Austin (TX),Stray,Normal,Other,Intact Male,2 years,Rabbit Sh,Brown Brindle,2021-01-07 12:36:00,Adoption,,10 days 00:55:00
+828037,,2021-01-05 20:43:00,01/05/2021 08:43:00 PM,109 Denson in Austin (TX),Stray,Normal,Other,Intact Male,1 year,Hamster,White,2021-01-10 12:35:00,Adoption,Foster,4 days 15:52:00
+828044,,2021-01-05 20:43:00,01/05/2021 08:43:00 PM,109 Denson in Austin (TX),Stray,Normal,Other,Intact Male,2 months,Hamster,Tan,2021-01-09 07:02:00,Adoption,Foster,3 days 10:19:00
+827955,*Cheerio,2021-01-04 15:54:00,01/04/2021 03:54:00 PM,14301 North Ih 35 in Travis (TX),Stray,Normal,Other,Intact Male,2 years,Rabbit Sh,Tan,2021-01-14 09:36:00,Adoption,,9 days 17:42:00
+828073,*Ernest,2021-01-06 15:55:00,01/06/2021 03:55:00 PM,11103 Bruneau Trail in Austin (TX),Stray,Normal,Other,Intact Male,1 year,Rabbit Sh,Black/White,2021-01-12 12:37:00,Adoption,,5 days 20:42:00
+828640,Blossom,2021-01-22 10:53:00,01/22/2021 10:53:00 AM,Austin (TX),Owner Surrender,Normal,Other,Unknown,7 months,Lop-Mini Mix,Sable,2021-01-30 16:35:00,Adoption,Foster,8 days 05:42:00
+828530,*Siegfried,2021-01-19 15:13:00,01/19/2021 03:13:00 PM,Travis (TX),Owner Surrender,Normal,Other,Intact Female,1 year,Guinea Pig,Tan/White,2021-01-26 17:04:00,Adoption,,7 days 01:51:00
+828531,*Roy,2021-01-19 15:13:00,01/19/2021 03:13:00 PM,Travis (TX),Owner Surrender,Normal,Other,Neutered Male,1 year,Guinea Pig,Tricolor,2021-01-26 17:05:00,Adoption,,7 days 01:52:00
+828039,*Hamtaro,2021-01-05 20:43:00,01/05/2021 08:43:00 PM,109 Denson in Austin (TX),Stray,Normal,Other,Intact Male,2 months,Hamster,Tan,2021-01-27 09:15:00,Adoption,Foster,21 days 12:32:00
+828876,,2021-01-29 11:26:00,01/29/2021 11:26:00 AM,Shadow Glen Road in Manor (TX),Stray,Normal,Other,Unknown,1 year,Rabbit Sh Mix,Tan,2021-02-13 13:27:00,Adoption,Foster,15 days 02:01:00
