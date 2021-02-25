@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Jagrati/images/
+Jagrati/train/
+Jagrati/test/
