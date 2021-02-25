@@ -1,0 +1,86 @@
+Animal ID,Name,DateTime,Found Location,Intake Type,Intake Condition,Animal Type,Sex upon Intake,Age upon Intake,Breed,Color,DateTime_out,Date of Birth,Outcome Type,Outcome Subtype,Sex upon Outcome,Age upon Outcome,shelter_time,shelter_days,Adopt Rating
+829817,Eddie,2021-02-23 20:11:00,4506 Mount Vernon in Austin (TX),Stray,Normal,Dog,Neutered Male,7 years,Yorkshire Terrier,Brown/Black,,,,,,,NaT,New intake,Not Adopted
+829814,,2021-02-23 18:09:00,1714 Patton in Austin (TX),Stray,Normal,Dog,Intact Female,1 year,Pit Bull,Tan,,,,,,,NaT,New intake,Not Adopted
+829806,Wanna,2021-02-23 15:35:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,2 years,Pit Bull Mix,Brown Brindle/White,,,,,,,NaT,New intake,Not Adopted
+829803,Raven,2021-02-23 14:50:00,8701 Black Oak in Austin (TX),Abandoned,Normal,Dog,Intact Female,6 months,German Shepherd,Black/Brown,,,,,,,NaT,New intake,Not Adopted
+829802,,2021-02-23 14:42:00,Manor (TX),Stray,Normal,Dog,Intact Female,2 years,Great Pyrenees/Border Collie,White/Black,,,,,,,NaT,New intake,Not Adopted
+829801,,2021-02-23 13:47:00,Fm 1100 And 290 in Travis (TX),Stray,Normal,Dog,Intact Female,2 years,Pit Bull,Brown/White,,,,,,,NaT,New intake,Not Adopted
+829800,,2021-02-23 12:56:00,12166 Metric in Austin (TX),Stray,Normal,Dog,Intact Male,2 years,Labrador Retriever,Yellow,,,,,,,NaT,New intake,Not Adopted
+829799,,2021-02-23 12:48:00,11305 Hillhaven in Austin (TX),Stray,Normal,Cat,Intact Male,3 months,Domestic Shorthair,Orange Tabby,,,,,,,NaT,New intake,Not Adopted
+829797,,2021-02-23 12:25:00,11305 Hillhaven in Austin (TX),Stray,Normal,Cat,Intact Female,3 months,Domestic Shorthair,Brown Tabby,,,,,,,NaT,New intake,Not Adopted
+829792,Rocky,2021-02-23 10:32:00,Travis (TX),Owner Surrender,Sick,Dog,Intact Male,3 months,Pomeranian,Brown,2021-02-23 12:30:00,11/23/2020,Transfer,Partner,Intact Male,3 months,0 days 01:58:00,0,Not Adopted
+829790,,2021-02-23 08:45:00,11127 Old Lockhart Road in Travis (TX),Stray,Injured,Dog,Intact Male,2 years,Great Pyrenees,White/White,,,,,,,NaT,New intake,Not Adopted
+829788,Ranger,2021-02-23 07:29:00,4434 Frontier Trail in Austin (TX),Owner Surrender,Injured,Dog,Neutered Male,8 years,Alaskan Malamute,Black/White,2021-02-23 14:41:00,2/23/2013,Transfer,Partner,Neutered Male,8 years,0 days 07:12:00,0,Not Adopted
+829787,,2021-02-23 07:10:00,St Johns And Ih 35 in Austin (TX),Stray,Nursing,Cat,Intact Female,2 days,Domestic Shorthair,White,,,,,,,NaT,New intake,Not Adopted
+829786,,2021-02-23 07:10:00,St Johns And Ih 35 in Austin (TX),Stray,Nursing,Cat,Intact Male,2 days,Domestic Shorthair,White,,,,,,,NaT,New intake,Not Adopted
+829785,,2021-02-23 07:10:00,St Johns And Ih 35 in Austin (TX),Stray,Nursing,Cat,Intact Male,2 days,Domestic Shorthair,Brown Tabby,,,,,,,NaT,New intake,Not Adopted
+829784,,2021-02-23 07:10:00,St Johns And Ih 35 in Austin (TX),Stray,Nursing,Cat,Intact Male,2 days,Domestic Shorthair,Brown Tabby,,,,,,,NaT,New intake,Not Adopted
+829782,,2021-02-22 21:46:00,1215 East Slaughter Lane in Austin (TX),Wildlife,Normal,Other,Unknown,1 year,Bat,Brown,2021-02-23 08:01:00,2/22/2020,Euthanasia,Rabies Risk,Unknown,1 year,0 days 10:15:00,0,Not Adopted
+829780,Shug,2021-02-22 20:16:00,12425 Lamplight Village Avenue in Austin (TX),Stray,Normal,Dog,Intact Male,1 year,Bulldog,White/Brown,2021-02-23 14:45:00,9/23/2019,Return to Owner,,Intact Male,1 year,0 days 18:29:00,0,Not Adopted
+829778,Baby Girl,2021-02-22 17:29:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Female,6 months,Pit Bull,Tan,,,,,,,NaT,New intake,Not Adopted
+829777,,2021-02-22 17:37:00,124 West Anderson Lane in Austin (TX),Abandoned,Normal,Cat,Spayed Female,1 year,Siamese mix,Black/Brown,,,,,,,NaT,New intake,Not Adopted
+829776,Red,2021-02-22 17:29:00,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,6 months,Pit Bull,Tan,,,,,,,NaT,New intake,Not Adopted
+829775,Blue,2021-02-22 17:29:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,2 years,Pit Bull,Brown Brindle,,,,,,,NaT,New intake,Not Adopted
+829764,Chespirita,2021-02-22 15:07:00,Austin (TX),Owner Surrender,Normal,Cat,Intact Female,8 years,Domestic Shorthair,Tortie,,,,,,,NaT,New intake,Not Adopted
+829763,,2021-02-22 15:25:00,20810 Galilee Court in Travis (TX),Stray,Normal,Dog,Intact Male,2 years,Boxer,Brown Brindle/White,,,,,,,NaT,New intake,Not Adopted
+829761,Brigitte,2021-02-22 15:07:00,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,8 years,Domestic Shorthair,Tortie,,,,,,,NaT,New intake,Not Adopted
+829758,*Teapot,2021-02-22 16:31:00,2216 Perry in Austin (TX),Stray,Normal,Dog,Intact Male,1 year,Chihuahua Shorthair,Black/Tan,,,,,,,NaT,New intake,Not Adopted
+829757,Shakira,2021-02-22 15:07:00,Austin (TX),Owner Surrender,Normal,Cat,Spayed Female,8 years,Domestic Shorthair,Tortie/Orange,,,,,,,NaT,New intake,Not Adopted
+829756,Amigo,2021-02-22 15:07:00,Austin (TX),Owner Surrender,Normal,Cat,Neutered Male,11 years,Domestic Shorthair,Lynx Point/White,,,,,,,NaT,New intake,Not Adopted
+829752,,2021-02-19 11:46:00,4407 Merle Drive in Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair,Blue,,,,,,,NaT,New intake,Not Adopted
+829751,,2021-02-19 11:46:00,4407 Merle Drive in Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair,Blue,,,,,,,NaT,New intake,Not Adopted
+829750,,2021-02-19 11:46:00,4407 Merle Drive in Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair,Blue,,,,,,,NaT,New intake,Not Adopted
+829749,,2021-02-19 11:46:00,4407 Merle Drive in Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair,Blue,,,,,,,NaT,New intake,Not Adopted
+829748,,2021-02-19 11:46:00,4407 Merle Drive in Austin (TX),Stray,Nursing,Cat,Unknown,0 years,Domestic Shorthair,Black,,,,,,,NaT,New intake,Not Adopted
+829747,,2021-02-22 13:12:00,9010 Galewood Drive in Austin (TX),Stray,Normal,Dog,Intact Male,1 year,Labrador Retriever,Brown,,,,,,,NaT,New intake,Not Adopted
+829744,Rocky,2021-02-22 14:02:00,306 South Pace Bend Road in Travis (TX),Stray,Normal,Dog,Neutered Male,6 years,Border Collie/Finnish Spitz,Black/White,,,,,,,NaT,New intake,Not Adopted
+829743,"Tator Tot Aka: ""Mr T""",2021-02-22 14:02:00,306 South Pace Bend Road in Travis (TX),Stray,Normal,Dog,Neutered Male,5 years,Maltese,White,,,,,,,NaT,New intake,Not Adopted
+829738,,2021-02-22 12:22:00,6814 East Riverside Drive in Austin (TX),Stray,Normal,Dog,Intact Male,4 months,Labrador Retriever/Great Pyrenees,Brown/White,,,,,,,NaT,New intake,Not Adopted
+829736,Peanut,2021-02-22 11:30:00,7201 Levander Loop in Austin (TX),Abandoned,Normal,Dog,Intact Male,2 months,Labrador Retriever Mix,Red/White,2021-02-24 17:22:00,12/7/2020,Return to Owner,,Intact Male,2 months,2 days 05:52:00,2,Not Adopted
+829727,Kira,2021-02-22 08:51:00,7001 Burleson Road in Travis (TX),Owner Surrender,Injured,Dog,Intact Female,2 years,Pit Bull,White/Brown,,,,,,,NaT,New intake,Not Adopted
+829726,,2021-02-22 08:45:00,Fm 973 in Travis (TX),Stray,Injured,Dog,Intact Male,2 years,Rottweiler,Black/Brown,,,,,,,NaT,New intake,Not Adopted
+829725,,2021-02-22 08:34:00,4434 Frontier Trail in Austin (TX),Stray,Injured,Dog,Intact Female,10 months,Doberman Pinsch,Black/Brown,,,,,,,NaT,New intake,Not Adopted
+829724,Massy,2021-02-22 08:29:00,4434 Frontier Trail in Austin (TX),Owner Surrender,Sick,Cat,Neutered Male,6 years,Domestic Medium Hair,Brown Tabby/White,,,,,,,NaT,New intake,Not Adopted
+829721,Kobe,2021-02-22 08:20:00,Austin (TX),Public Assist,Injured,Dog,Neutered Male,2 years,Cocker Spaniel/Dachshund Longhair,Brown,,,,,,,NaT,New intake,Not Adopted
+829718,Squirt,2021-02-22 16:55:00,402 Treys Way in Austin (TX),Public Assist,Aged,Cat,Spayed Female,17 years,Domestic Shorthair,Black/White,,,,,,,NaT,New intake,Not Adopted
+829713,,2021-02-21 18:25:00,10605 Old Lockhart Road in Austin (TX),Stray,Normal,Dog,Intact Female,6 months,Doberman Pinsch,Black/Tan,,,,,,,NaT,New intake,Not Adopted
+829702,,2021-02-21 13:51:00,2509 Cecil Drive in Travis (TX),Wildlife,Normal,Other,Unknown,2 years,Bat,Brown/Black,2021-02-24 16:28:00,2/21/2019,Euthanasia,Rabies Risk,Unknown,2 years,3 days 02:37:00,3,Not Adopted
+829701,,2021-02-21 14:56:00,16201 Biltmore Avenue in Travis (TX),Stray,Normal,Dog,Intact Male,3 years,Chihuahua Shorthair,Brown,2021-02-21 17:28:00,9/21/2017,Adoption,,Intact Male,3 years,0 days 02:32:00,0,AA
+829694,,2021-02-21 10:17:00,5180 West 290 Highway in Austin (TX),Stray,Sick,Cat,Spayed Female,6 years,Domestic Shorthair,Black,2021-02-21 12:49:00,2/21/2015,Transfer,Partner,Spayed Female,6 years,0 days 02:32:00,0,Not Adopted
+829685,,2021-02-20 20:16:00,9300 Bluff Springs in Austin (TX),Public Assist,Normal,Dog,Intact Male,8 months,Labrador Retriever/Pit Bull,Brown,,,,,,,NaT,New intake,Not Adopted
+829684,,2021-02-20 20:16:00,9300 Bluff Springs in Austin (TX),Public Assist,Normal,Dog,Intact Male,1 year,Border Collie/Alaskan Husky,Black/White,,,,,,,NaT,New intake,Not Adopted
+829679,,2021-02-20 16:35:00,6307 Bluff Springs Road in Austin (TX),Abandoned,Normal,Dog,Intact Female,6 months,Alaskan Husky,White,,,,,,,NaT,New intake,Not Adopted
+829676,,2021-02-20 17:10:00,14511 Sandifer Street in Travis (TX),Stray,Normal,Dog,Intact Female,2 years,Siberian Husky Mix,Tricolor,,,,,,,NaT,New intake,Not Adopted
+829674,,2021-02-20 17:10:00,14511 Sandifer Street in Travis (TX),Stray,Normal,Dog,Intact Female,2 years,Siberian Husky Mix,Black/White,,,,,,,NaT,New intake,Not Adopted
+829672,*Tallulah,2021-02-20 14:46:00,Austin (TX),Stray,Normal,Dog,Intact Female,6 months,Doberman Pinsch,Black/Tan,,,,,,,NaT,New intake,Not Adopted
+829669,Harley,2021-02-20 17:10:00,12501 Tech Ridge Boulevard in Austin (TX),Stray,Normal,Dog,Spayed Female,2 years,Labrador Retriever Mix,Tan/White,,,,,,,NaT,New intake,Not Adopted
+829667,*Gonzo,2021-02-20 17:10:00,9807 Marlborough Drive in Austin (TX),Stray,Normal,Dog,Intact Male,2 years,Anatol Shepherd Mix,Yellow,,,,,,,NaT,New intake,Not Adopted
+829664,,2021-02-20 09:34:00,Del Valle in Austin (TX),Stray,Injured,Dog,Intact Male,2 years,Labrador Retriever,Brown/Black,,,,,,,NaT,New intake,Not Adopted
+829663,Lincoln,2021-02-20 17:10:00,7202 Carver Avenue in Austin (TX),Public Assist,Normal,Cat,Neutered Male,3 years,Domestic Shorthair,Gray/White,,,,,,,NaT,New intake,Not Adopted
+829662,,2021-02-20 08:17:00,406 Chaparral Road in Austin (TX),Public Assist,Normal,Dog,Intact Male,2 years,Rottweiler,Black/Tan,,,,,,,NaT,New intake,Not Adopted
+829661,,2021-02-19 17:23:00,9604 Carson Creek in Austin (TX),Stray,Normal,Cat,Intact Male,1 year,Domestic Shorthair,Orange Tabby,,,,,,,NaT,New intake,Not Adopted
+829660,*Chaos,2021-02-19 16:43:00,14204 Jacobson Road in Austin (TX),Stray,Normal,Dog,Intact Female,5 months,Carolina Dog,Yellow Brindle/White,,,,,,,NaT,New intake,Not Adopted
+829659,*Riot,2021-02-19 16:43:00,14204 Jacobson Road in Austin (TX),Stray,Normal,Dog,Intact Female,5 months,Labrador Retriever,Black/White,,,,,,,NaT,New intake,Not Adopted
+829643,Frosty,2021-02-19 13:03:00,Austin (TX),Owner Surrender,Normal,Dog,Intact Male,5 years,Labrador Retriever,White,,,,,,,NaT,New intake,Not Adopted
+829642,Rishi Bear,2021-02-19 11:47:00,85Th Trinity Street in Austin (TX),Public Assist,Normal,Dog,Intact Male,2 years,Chow Chow,Buff,2021-02-24 16:46:00,2/19/2019,Return to Owner,,Intact Male,2 years,5 days 04:59:00,5,Not Adopted
+829630,Daisy,2021-02-18 16:57:00,900 Barton Springs in Austin (TX),Public Assist,Normal,Dog,Spayed Female,10 years,Rat Terrier Mix,White/Black,2021-02-23 17:36:00,2/18/2011,Return to Owner,,Spayed Female,10 years,5 days 00:39:00,5,Not Adopted
+829629,Minnie,2021-02-18 16:57:00,900 Barton Springs in Austin (TX),Public Assist,Normal,Dog,Intact Female,3 years,Chihuahua Shorthair/Dachshund Wirehair,Brown Brindle,2021-02-23 17:37:00,2/18/2018,Return to Owner,,Spayed Female,3 years,5 days 00:40:00,5,Not Adopted
+829618,*Lily,2021-02-17 17:27:00,2930 East 12Th Street in Austin (TX),Public Assist,Normal,Dog,Intact Female,3 years,Pit Bull Mix,Blue,,,,,,,NaT,New intake,Not Adopted
+829617,,2021-02-17 17:27:00,2930 East 12Th Street in Austin (TX),Public Assist,Normal,Dog,Intact Male,3 years,Pit Bull Mix,Blue,,,,,,,NaT,New intake,Not Adopted
+829616,*Jesse,2021-02-17 14:28:00,2751 East Sh 71 in Austin (TX),Public Assist,Normal,Dog,Neutered Male,2 years,Labrador Retriever/Golden Retriever,Gold,,,,,,,NaT,New intake,Not Adopted
+829611,Chief,2021-02-17 10:33:00,Austin (TX),Owner Surrender,Injured,Cat,Neutered Male,9 years,Domestic Shorthair,Orange Tabby,,,,,,,NaT,New intake,Not Adopted
+829602,*Cleopatra,2021-02-16 11:59:00,Prairie Trail in Austin (TX),Stray,Normal,Cat,Intact Female,1 year,Domestic Shorthair,White/Brown Tabby,,,,,,,NaT,New intake,Not Adopted
+829571,*Pete,2021-02-13 16:44:00,6220 Brookside Drive in Austin (TX),Stray,Normal,Dog,Intact Male,10 months,Great Pyrenees,White,,,,,,,NaT,New intake,Not Adopted
+829565,*Toodles,2021-02-13 14:49:00,18100 Ryegate Drive in Travis (TX),Stray,Normal,Dog,Intact Female,1 year,Labrador Retriever Mix,White,,,,,,,NaT,New intake,Not Adopted
+829561,,2021-02-13 13:39:00,11402 James Haller Drive in Austin (TX),Stray,Sick,Cat,Intact Female,6 months,Domestic Shorthair,Calico,,,,,,,NaT,New intake,Not Adopted
+829556,*Charlie,2021-02-13 13:04:00,Ross Road And Pearce Lane in Austin (TX),Stray,Normal,Dog,Intact Male,3 years,Labrador Retriever/Pit Bull,Black/White,,,,,,,NaT,New intake,Not Adopted
+829553,,2021-02-13 15:35:00,7304 Lazy Creek Drive in Austin (TX),Stray,Normal,Cat,Intact Female,1 year,Domestic Shorthair,Blue Tabby,2021-02-21 14:56:00,2/13/2020,Transfer,Partner,Intact Female,1 year,7 days 23:21:00,7,Not Adopted
+829552,Ivy,2021-02-13 11:43:00,9402 Carson Creek in Austin (TX),Stray,Nursing,Dog,Intact Female,1 year,German Shepherd,Tan/Black,,,,,,,NaT,New intake,Not Adopted
+829547,*Winston,2021-02-13 09:28:00,6000 Middle Fiskville Road in Austin (TX),Stray,Normal,Dog,Intact Male,10 years,Catahoula,Gold,,,,,,,NaT,New intake,Not Adopted
+827072,Kane,2021-02-22 13:14:00,Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,13 years,American Foxhound/Beagle,Brown/White,2021-02-09 13:29:00,12/12/2007,Adoption,Foster,Neutered Male,13 years,-13 days +00:15:00,-1,
+825423,Precious,2021-02-13 11:54:00,South First And Cumberland in Austin (TX),Stray,Normal,Dog,Intact Female,2 years,Chihuahua Longhair/Chow Chow,Tan,2021-02-20 17:13:00,11/3/2018,Return to Owner,,Intact Female,2 years,7 days 05:19:00,7,Not Adopted
+824084,Ki,2021-02-20 19:59:00,7300 Fm 2222 in Austin (TX),Abandoned,Normal,Dog,Neutered Male,3 years,Pit Bull,Blue/White,2020-10-06 14:04:00,2/21/2018,Return to Owner,,Neutered Male,2 years,-138 days +18:05:00,-1,Not Adopted
+810774,*Gunner,2021-02-20 18:42:00,14707 Noya Drive in Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,3 years,Pit Bull,Brown Brindle/White,2021-02-09 09:58:00,12/19/2017,Adoption,Foster,Neutered Male,3 years,-12 days +15:16:00,-1,
+716730,Daisy,2021-02-22 08:41:00,4434 Frontier Trail in Austin (TX),Owner Surrender,Injured,Cat,Spayed Female,5 years,Domestic Shorthair,Brown Tabby,2015-12-05 19:29:00,9/23/2015,Adoption,,Spayed Female,2 months,-1906 days +10:48:00,-1,
+690359,Buddy,2021-02-21 14:57:00,2603 Canterbury Street in Austin (TX),Owner Surrender,Behavior,Dog,Neutered Male,6 years,Labrador Retriever Mix,Tan/White,2014-10-23 17:14:00,6/19/2014,Adoption,,Neutered Male,4 months,-2313 days +02:17:00,-2,
+612986,Ian,2021-02-22 16:30:00,4600 Elmont Drive in Austin (TX),Owner Surrender,Normal,Dog,Neutered Male,9 years,Chihuahua Shorthair/Pit Bull,Sable/White,,,,,,,NaT,New intake,Not Adopted
