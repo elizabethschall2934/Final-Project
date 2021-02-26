@@ -14,8 +14,8 @@ words = pickle.load(open('words.pkl','rb'))
 classes = pickle.load(open('classes.pkl','rb'))
 
 # connecting with MongoDB
-#conn = 'mongodb+srv://TeamCatViz:RockingTeam#1@cluster0.ddihz.mongodb.net/petfinder_db?retryWrites=true&w=majority'
-conn = 'mongodb://localhost:27017'
+conn = 'mongodb+srv://TeamCatViz:RockingTeam#1@cluster0.ddihz.mongodb.net/petfinder_db?retryWrites=true&w=majority'
+#conn = 'mongodb://localhost:27017'
 client = pymongo.MongoClient(conn)
 
 def clean_up_sentence(sentence):
@@ -66,9 +66,9 @@ def getPetByType(pet_type):
     # Retrieve the all images
     # Query Parameters
     params = {
-        "type" : {"$eq" : pet_type},
-        #"breeds.primary" : {"$eq" : "Chihuahua"},
-        #"colors.primary" : {"$in" : ["Bicolor"]}
+        "type" : {"$eq" : "Dog"},
+        "breeds.primary" : {"$eq" : "Chihuahua"},
+        "colors.primary" : {"$in" : ["Bicolor"]}
     }
     fields = {"_id":0
                 ,"type":1
@@ -76,9 +76,9 @@ def getPetByType(pet_type):
                 ,"primary_photo_cropped.small":1
             }
     db = client.petfinder_db
-    pets_coll = db.tx_pet_data.find(params,fields).limit(1)
-    #print(len(pets_coll))
-    return pets_coll
+    pets_coll = db.tx_pet_data.find(params,fields)
+    pet_list_str = str(list(pets_coll))
+    return pet_list_str
 
 def chatbot_response(msg):
     ints = predict_class(msg, model)
