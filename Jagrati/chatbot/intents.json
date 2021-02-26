@@ -1,0 +1,63 @@
+{"intents": [
+        {"tag": "greeting",
+         "patterns": ["Hi there", "How are you", "Is anyone there?","Hey","Hola", "Hello", "Good day"],
+         "responses": ["Hello, thanks for asking", "Good to see you again", "Hi there, how can I help?"],
+         "context": [""]
+        },
+        {"tag": "goodbye",
+         "patterns": ["Bye", "See you later", "Goodbye", "Nice chatting to you, bye", "Till next time"],
+         "responses": ["See you!", "Have a nice day", "Bye! Come back again soon."],
+         "context": [""]
+        },
+        {"tag": "thanks",
+         "patterns": ["Thanks", "Thank you", "That's helpful", "Awesome, thanks", "Thanks for helping me"],
+         "responses": ["Happy to help!", "Any time!", "My pleasure"],
+         "context": [""]
+        },
+        {"tag": "noanswer",
+         "patterns": [],
+         "responses": ["Sorry, can't understand you", "Please give me more info", "Not sure I understand"],
+         "context": [""]
+        },
+        {"tag": "options",
+         "patterns": ["What pet types do you have?", "What you can do?", "What help you provide?", "How you can be helpful?", "What support is offered?"],
+         "responses": ["Browsing pets by type, breed or color with links", "providing links to petfinder website"],
+         "context": [""]
+        },
+        {"tag": "type_search",
+         "patterns": ["I want to search for a pet", "type of animal", "get me a pet", "show me all pets", "find pet by type", "what type do you have" ],
+         "responses": ["Please provide type of the pet, e.g. Dog, Cat, Bird etc", "Pet Type?", "Dog, Cat, Bird, Barnyard, Horse, Rabbit, SmallFurry"],
+         "context": ["search_pet_by_type"]
+        },
+        {"tag": "search_pet_by_type",
+         "patterns": ["Dog", "Cat", "Bird", "Barnyard", "Horse", "Rabbit", "SmallFurry"],
+         "responses": ["Loading pets..."],
+         "context": [""]
+        },
+        {"tag": "breed_search",
+         "patterns": ["Find me a breed", "Find breed", "List of breed", "Search breed" ],
+         "responses": ["Please provide breed name"],
+         "context": ["search_breed_by_name"]
+        },
+        {"tag": "search_breed_by_name",
+         "patterns": [],
+         "responses": ["Loading pet details.."],
+         "context": [""]
+        },
+        {"tag": "color_search",
+         "patterns": ["Lookup for color", "Searching for color", "I want to search color data", "color lookup for pet", "Looking up color details" ],
+         "responses": ["Please provide color name"],
+         "context": ["search_pet_by_color"]
+        },
+        {"tag": "search_pet_by_color",
+         "patterns": [],
+         "responses": ["Please provide type of pet"],
+         "context": ["search_pet_by_type"]
+        },
+        {"tag": "search_pet_by_type",
+         "patterns": [],
+         "responses": ["Loading pet details..."],
+         "context": [""]
+        }
+   ]
+}
