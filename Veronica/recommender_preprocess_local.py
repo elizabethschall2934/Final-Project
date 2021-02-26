@@ -45,8 +45,24 @@ species_list = []
 breeds_list = []
 colors_list = []
 ages_list = []
+photos_list = []
 
-# Parse out features of interest from the list of dictionaries and store in separate lists
+# Declare a function to check for existence of photos and build photos list
+def buildPhotoList(list_of_dictionaries, photos_list):
+  # Loop through list of dictionaries to extract photos. If medium-sized photo is present, store its in list.
+  # Otherwise store URL to generic paw icon instead.
+  for x in range(len(list_of_dictionaries)):
+      # Check if a medium photo exists.
+      photo = list_of_dictionaries[x]["photos"][0]
+      if photo != None and photo["medium"] != None:
+          photos_list.append(photo["medium"])
+      else:
+          photos_list.append("../static/assets/pawIcon.png")
+  return photos_list
+
+print(len(list_of_dictionaries))
+
+# Loop through list of dictionaries to parse out features of interest and store in separate lists
 for x in range(len(list_of_dictionaries)):
     id_list.append(list_of_dictionaries[x]["id"])
     names_list.append(list_of_dictionaries[x]["name"])
@@ -61,16 +77,20 @@ for x in range(len(list_of_dictionaries)):
         color = color.split()[0]
     colors_list.append(color)
 
+    # Call function to build photo URL list
+    photos_list = buildPhotoList(list_of_dictionaries, photos_list)
+    
+
 # Store feature lists in Pandas dataframe
 df = pd.DataFrame(list(zip(id_list, names_list, sizes_list, species_list, breeds_list, colors_list, ages_list)), columns = ['ID', 'Name', 'Size', 'Species', 'Breed', 'Color', 'Age'])
 
-# Export Pandas dataframe to csv for use by recommender_local.js
+# Export Pandas dataframe to csv. recommender_local.js will access it to look up the attributes for the next pet to show.
 df.to_csv('pet_data.csv', index=False)
 
 # Drop name column from Pandas dataframe
 df.drop('Name', axis=1, inplace=True)
 
-#Replace all NaN values with an empty strings
+#Replace all NaN values with empty strings
 df['ID'] = df['ID'].fillna('')
 df['Size'] = df['Size'].fillna('')
 df['Species'] = df['Species'].fillna('')
@@ -138,8 +158,11 @@ def get_recommendations(pet_just_voted, up_or_down, cosine_sim=cosine_sim):
     # Get the index of the pet
     pet_index = next_sim_score[0]
 
-    # Return the ID of the pet. This pet will be displayed next.
-    return df['ID'].iloc[pet_index]
+    # Get the ID of the pet. This pet will be displayed next.
+    pet_id = df['ID'].iloc[pet_index]
+
+    # Look up the attributes of the next pet to display.
+
 
 # Sample voting
 pet_just_voted = 50614740
