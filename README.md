@@ -1,7 +1,9 @@
 # Machine Learning Solutions To Support Pet Adoption
 
 ### This GitHub repo is a collaborative final project for University of Arizona's Data Analytics Bootcamp.
-### Elizabeth S., Jagrati Joshi, Natalie Smith, Ran Wei, and Veronica Nixon to this repo. We were concerned by the pet rescue crisis that unfolded during the 2021 winter storms in Austin, Texas and across the south. Using pubicly available data from PetFinder.com and the Austin ___ we experimented with a variety of machine learning and data visualization solutions to learn about the pet adoption situation in Texas and to create tools to help people connect more easily with adoptable pets.
+### Authors: Elizabeth S., Jagrati Joshi, Natalie Smith, Ran Wei, and Veronica Nixon. 
+
+#### We were concerned by the pet rescue crisis that unfolded during the 2021 winter storms in Austin, Texas and across the south and geared our final project towards exploring machine learning tools and data visualization approaches to support pet rescue and adoption efforts. Using pubicly available data from PetFinder.com and the Austin ___ we experimented with a variety of machine learning and data visualization solutions to learn about the pet adoption situation in Texas and to create tools to help people connect more easily with adoptable pets.
 
 -Tableau visualizations of the effect of the storm event on adoptions in Austin, Texas:  https://public.tableau.com/profile/elizabeth6995#!/vizhome/FinalProject_16139367348930/PreCovidIntakeType
 
