@@ -5,6 +5,8 @@
 
 #### We were concerned by the pet rescue crisis that unfolded during the 2021 winter storms in Austin, Texas and across the south and geared our final project towards exploring machine learning tools and data visualization approaches to support pet rescue and adoption efforts. Using pubicly available data from PetFinder.com and the Austin ___ we experimented with a variety of machine learning and data visualization solutions to learn about the pet adoption situation in Texas and to create tools to help people connect more easily with adoptable pets.
 
+#### Check out our Heroku app at https://austinrescuenetwork.herokuapp.com to get an overview of the project, then dive into the project files to view the code that powers the machine learning models.
+
 -Tableau visualizations of the effect of the storm event on adoptions in Austin, Texas:  https://public.tableau.com/profile/elizabeth6995#!/vizhome/FinalProject_16139367348930/PreCovidIntakeType
 
 -Machine Learning system to ...Google Colab link https://colab.research.google.com/drive/18NWDO0fNvS1vZCc0lJHvwY1PTKhxAA74?usp=sharing
