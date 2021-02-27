@@ -138,11 +138,3 @@ indices = pd.Series(df.index, index=df['ID']).drop_duplicates()
 indices.to_csv('data/indices.csv', index=True)
 
 
-
-#print(next_pet)
-
-#print(cosine_sim)
-
-#print(count_matrix)
-
-#print(df)
