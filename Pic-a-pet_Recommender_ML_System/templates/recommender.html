@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Mission: Find Your Pet</title>
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <!-- Local CSS -->
+  <link rel="stylesheet" type="text/css" href="../static/css/style.css">
+
+</head>
+
+<body>
+
+  <!-- Pets banner -->
+  <span class="banner_l">
+    <img src="static/petbanner.jpg" alt="Banner" />
+  </span>
+
+  <!-- Nav bar -->
+  <div class="topnav">
+    <a class="active" href="/">Home</a>
+    <a href="#news">Take Our Pet-Match Survey!</a>
+    <a href="#news">Find Your Perfect Pet</a>
+    <a href="#contact">What Impacts Adoption</a>
+    <a href="#about">Find An Organization</a>
+  </div>
+
+  <div class="header">
+    <h1>
+      <center>Pic-A-Pet</center>
+    </h1>
+  </div>
+
+  <br>
+  <div class="container">
+    <h2>
+      <center>Find your perfect pet match with the help of our custom machine learning algorithm.</center>
+    </h2>
+    <h2>We'll start by showing you one of the great pets currently up for adoption. Each time you vote, the algorithm
+      hones in on the right pet for you.</h2>
+  </div></br>
+  </div>
+
+  <br>
+  <br>
+
+  <!-- Pet voting area -->
+  <div class="container">
+    <div class="row">
+      <div class="col-md-2"></div>
+      <div class="col-md-5">
+        <div class="pet">
+          <!-- Pet photo -->
+          <p>
+            <center><img src="../static/assets/petphoto.jpg" width="380" height="400">
+              </img></center>
+          </p>
+        </div><!-- Close pet div -->
+      </div> <!-- Close column div -->
+
+      <div class="col-md-5">
+        <!-- Pet characteristics -->
+        <h2>Name: Bounding Fluff</h2>
+        <br>
+        <h2>Species: Cat</h2>
+        <h2>Breed: Mixed</h2>
+        <h2>Size: Medium</h2>
+        <h2>Age: Adult</h2>
+        <h2>Color: Tricolor</h2>
+      </div>
+    </div> <!-- Close row -->
+
+      <!-- Voting buttons -->
+        <div class="row">
+          <div class="col-md-3">
+            <!--Place-holder column-->
+          </div>
+          <div class="col-md-3">
+            <p>
+              <center><button id="up-btn" type="button" class="btn btn-outline-secondary">Thumbs up!</button></center>
+            </p>
+          </div>
+          <div class="col-md-3">
+            <p>
+              <center><button id="down-btn" type="button" class="btn btn-outline-secondary">Thumbs down</button>
+              </center>
+            </p>
+          </div>
+        </div>
+
+      <br>
+
+      <!-- Ready to adopt! button -->
+      <p>
+        <center><button id="adopt-btn" type="button" class="btn btn-outline-secondary" href="/getPetData">Ready to
+            adopt!</button></center>
+      </p>
+
+      <!-- Scripts -->
+      <!-- D3 JS -->
+      <script src="https://d3js.org/d3.v5.min.js"></script>
+      <!-- D3 tooltips JS -->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.9.1/d3-tip.js"></script>
+      <!-- Local js script -->
+      <script src="..static/js/recommender.js"></script>
+</body>
+
+</html>

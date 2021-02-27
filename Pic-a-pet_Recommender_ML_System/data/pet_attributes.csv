@@ -1,0 +1,51 @@
+ID,Name,Size,Species,Breed,Color,Age,Photo
+50665038,REMI,Medium,Dog,German Shepherd Dog,,Young,../static/assets/pawIcon.png
+50665039,A596588,Small,Dog,Plott Hound,,Baby,../static/assets/pawIcon.png
+50665036,A596598,Medium,Dog,Labrador Retriever,,Young,../static/assets/pawIcon.png
+50665037,HULK,Medium,Dog,Labrador Retriever,,Young,../static/assets/pawIcon.png
+50664983,1115180,Medium,Dog,Australian Cattle Dog / Blue Heeler,,Young,../static/assets/pawIcon.png
+50664984,1115175,Small,Cat,Domestic Short Hair,,Young,../static/assets/pawIcon.png
+50664985,1115181,Medium,Dog,Australian Shepherd,,Baby,../static/assets/pawIcon.png
+50664986,CHAMBERLIN,Large,Dog,Pit Bull Terrier,,Adult,../static/assets/pawIcon.png
+50664987,CANDY,Small,Dog,Chihuahua,,Adult,../static/assets/pawIcon.png
+50664988,FLINT,Medium,Dog,Pit Bull Terrier,,Young,../static/assets/pawIcon.png
+50664953,WOODY,Large,Dog,Labrador Retriever,,Adult,https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50664953/1/?bust=1614305915&width=300
+50664925,Moira Rose,Small,Cat,Turkish Van,,Baby,../static/assets/pawIcon.png
+50664926,Albus (Deaf),Medium,Cat,Russian Blue,,Adult,https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50664926/2/?bust=1614305810&width=300
+50664915,Betty,Large,Dog,Mixed Breed,,Baby,https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50664915/1/?bust=1614305795&width=300
+50664914,Wilma,Large,Dog,Mixed Breed,,Baby,https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50664914/1/?bust=1614305915&width=300
+50664761,Sandy JuM*,Medium,Dog,Black Mouth Cur,Brown,Young,https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50664761/2/?bust=1614304549&width=300
+50664786,Gunny JE aka Odin*,Extra Large,Dog,Dogo Argentino,White,Adult,https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50664786/1/?bust=1614304678&width=300
+50664806,Clover JHTP,Medium,Dog,Pug,Yellow,Adult,https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50664806/3/?bust=1614304674&width=300
+50664805,Harley ST*,Medium,Dog,Black Labrador Retriever,Black,Adult,https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50664805/2/?bust=1614304545&width=300
+50664803,Peppermint Patty JuM,Medium,Dog,German Shorthaired Pointer,White,Adult,https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50664803/2/?bust=1614304544&width=300
+50664812,Heidi DJ*,Medium,Dog,Pit Bull Terrier,White,Adult,https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50664812/3/?bust=1614304547&width=300
+50664792,Millie JH. (previously Queen Dulce JH),Small,Dog,Rat Terrier,Black,Adult,https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/50664792/5/?bust=1614304543&width=300
+50664759,Behr DJ,Large,Dog,Rottweiler,Black,Adult,../static/assets/pawIcon.png
+50664760,Cyrus JM,Small,Dog,Shar-Pei,Brindle,Baby,../static/assets/pawIcon.png
+50664762,Jelly JuM,Small,Dog,Pit Bull Terrier,Brindle,Young,../static/assets/pawIcon.png
+50664763,Layla JE,Medium,Dog,Basenji,Red,Adult,../static/assets/pawIcon.png
+50664764,Landoo JuM,Medium,Dog,Black Labrador Retriever,Black,Young,../static/assets/pawIcon.png
+50664765,Shy Shy JuM,Medium,Dog,Black Labrador Retriever,Black,Adult,../static/assets/pawIcon.png
+50664766,Teddy JuM,Medium,Dog,Bull Terrier,Brown,Adult,../static/assets/pawIcon.png
+50664769,Ally JuM,Small,Dog,Pit Bull Terrier,White,Adult,../static/assets/pawIcon.png
+50664770,Baz JuM,Medium,Dog,Hound,Gray,Adult,../static/assets/pawIcon.png
+50664771,Puma JuM,Medium,Dog,Labrador Retriever,White,Baby,../static/assets/pawIcon.png
+50664773,Beretta MW,Small,Dog,Pit Bull Terrier,Black,Baby,../static/assets/pawIcon.png
+50664774,Bunny JuM*,Small,Dog,Beagle,Red,Adult,../static/assets/pawIcon.png
+50664775,Ethel Mertz JuM,Small,Dog,Catahoula Leopard Dog,Black,Adult,../static/assets/pawIcon.png
+50664776,Ida JuM,Small,Dog,Pit Bull Terrier,Brindle,Young,../static/assets/pawIcon.png
+50664777,Chandler JuM,Small,Dog,Labrador Retriever,Yellow,Young,../static/assets/pawIcon.png
+50664778,Taurus,Small,Dog,Golden Retriever,Golden,Adult,../static/assets/pawIcon.png
+50664779,Pax JuM,Medium,Dog,Pointer,Black,Adult,../static/assets/pawIcon.png
+50664780,Dallas JuM,Large,Dog,Anatolian Shepherd,Yellow,Adult,../static/assets/pawIcon.png
+50664781,Spicy JuM,Medium,Dog,Bull Terrier,White,Adult,../static/assets/pawIcon.png
+50664782,Reese JuM*,Medium,Dog,Shepherd,Black,Adult,../static/assets/pawIcon.png
+50664783,Momma Luna JM,Small,Dog,American Staffordshire Terrier,White,Adult,../static/assets/pawIcon.png
+50664784,Mickey JuM,Large,Dog,Mastiff,Red,Adult,../static/assets/pawIcon.png
+50664785,Tulla SV,Medium,Dog,Boxer,Black,Adult,../static/assets/pawIcon.png
+50664787,Jenny Piccalo JuM,Medium,Dog,Black Labrador Retriever,Black,Adult,../static/assets/pawIcon.png
+50664788,Chanel SSP,Medium,Dog,American Staffordshire Terrier,Gray,Adult,../static/assets/pawIcon.png
+50664789,Olaf JuM,Medium,Dog,Boxer,Brown,Adult,../static/assets/pawIcon.png
+50664790,Ranger JuM,Small,Dog,Plott Hound,Brown,Young,../static/assets/pawIcon.png
+50664791,Ross JuM,Small,Dog,Shepherd,Yellow,Young,../static/assets/pawIcon.png
