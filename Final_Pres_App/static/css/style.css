@@ -1,0 +1,140 @@
+body {
+  background-image: url("https://images.unsplash.com/photo-1588345921523-c2dcdb7f1dcd?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHw%3D&w=1000&q=80");
+  background-repeat: repeat;
+}
+
+
+
+* {margin:0; padding: 0;}
+.banner_l {display: block; width: 90%;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  margin:0 auto;
+  }
+.banner_l img {width:100%;
+  }
+
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #4c87af;
+  color: white;
+}
+
+
+
+.h3 {
+  background-color: white;
+}
+
+.header {
+  font-family: Verdana;
+  font-size: 60px;
+  padding: 10px;
+  text-align: left;
+  text-indent: 10px;
+  background: cornflowerblue;
+  color: white;
+  font-size: 30px;
+  width: auto;
+}
+
+.card {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  box-sizing: inherit;
+  max-width: fit-content;
+  margin: 0 auto; /* Added */
+  float: none; /* Added */
+  margin-bottom: 10px; /* Added */
+}
+
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+/* Add some padding inside the card container */
+.container {
+  padding: 2px 5px;
+}
+
+.tbody { width: fit-content;}
+
+.container {
+  background: white;
+  max-width: inherit;
+
+}
+
+.col-md-6 {
+  align-content: center;
+}
+
+.col-md-12 {
+  width: fit-content;
+}
+
+/* Float four columns side by side */
+.column {
+  float: left;
+  width: 25%;
+  padding: 10px;
+}
+
+/* Remove extra left and right margins, due to padding in columns */
+.row {
+  background-color: white;
+  margin: 0 -5px;}
+
+
+
+.map {
+  align-items: center;
+  column-span: inherit;
+  background: white;
+  border-style: solid;
+  border-width: 5px;
+}
+
+
+/* Style the counter cards */
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
+  padding: 16px;
+  text-align: center;
+  background-color: #f1f1f1;
+}
+
+
+/* Responsive columns - one column layout (vertical) on small screens */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+}
+
+

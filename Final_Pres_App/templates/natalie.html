@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Mission: Find Your Pet</title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <!-- DataTables CSS-->
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.23/css/jquery.dataTables.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/searchpanes/1.2.1/css/searchPanes.dataTables.min.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/select/1.3.1/css/select.dataTables.min.css">
+    <link rel="stylesheet" type="text/css" href="../static/css/magnific-popup.css">
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+        integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+        crossorigin="" />
+    <!-- Leaflet Marker Cluster CSS -->
+    <link rel="stylesheet" type="text/css" href="https://unpkg.com/leaflet.markercluster@1.0.3/dist/MarkerCluster.css">
+    <link rel="stylesheet" type="text/css"
+        href="https://unpkg.com/leaflet.markercluster@1.0.3/dist/MarkerCluster.Default.css">
+    <!-- Local CSS -->
+    <link rel="stylesheet" type="text/css" href="../static/css/style.css">
+
+
+</head>
+
+<body>
+    <br>
+    <br>
+
+    <span class="banner_l">
+        <img src="static/petbanner.jpg" alt="Banner" />
+    </span>
+
+    <br>
+    <br>
+
+    <div class="topnav">
+        <a class="active" href="/">Home</a>
+        <a href="jagrati">Who's That Pet?</a>
+        <a href="ran">Take Our Pet-Match Survey!</a>
+        <a href="veronica">Pic-A-Pet</a>
+        <a href="natalie">What Impacts Adoption</a>  
+    </div>
+
+
+    <br>
+    <h1>
+        <center>Pet Features for Adoption Model</center>
+    </h1>
+    <br>
+
+    <div class="card">
+        <div class="container">
+            <h2><b>Picking A Pet - Emotional or Logic Based?</b></h2>
+            <img src="static/petfamily.jpg" style="width:60%"></img>
+            <br>
+            <br>
+            <p>When choosing the perfect family pet, often the choice is considered to be emotional; will there be a
+                connection between you and your next best friend? In most cases,
+                there is always some sort of conscious or subconsious bias that influences the choices that we make,
+                especially when considering the next four legged roommate to join us (rent free!).
+                When considering these human bias, I wanted to review the data set that we had from the Austin
+                shelther
+                to see if we could weigh the labeled values in a way that could train a model to predict the
+                features of pets that impact the length of stay in the shelter.
+                Using a subset of dogs, I took one numeric value, cleaned the remaining labeled data,
+                and ran it through a series of regression models. Ultimately there were restrictions due to
+                misdistribution amoung classes, as well as a data set that would do well to be expanded.
+            </p>
+            <br>
+            <h3><a href="https://colab.research.google.com/drive/1H7GfVPtFxRVg-4muKnAmEPbgMlm64Z1v?usp=sharing"><b>Visit
+                        My Code!</b></a></h3>
+            <br>
+
+        </div>
+    </div>
+
+
+
+    <!-- Scripts -->
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <!-- D3 JS -->
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <!-- D3 tooltips JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.9.1/d3-tip.js"></script>
+    <!-- JQuery JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <!-- DataTables JS plug-in -->
+    <script type="text/javascript" src="../static/data.js"></script>
+    <script type="text/javascript" charset="utf8"
+        src="https://cdn.datatables.net/1.10.23/js/jquery.dataTables.js"></script>
+    <script type="text/javascript" src="../static/js/jquery.magnific-popup.js"></script>
+    <script src="https://cdn.datatables.net/searchpanes/1.2.1/js/dataTables.searchPanes.min.js"></script>
+    <script src="https://cdn.datatables.net/select/1.3.1/js/dataTables.select.min.js"></script>
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+        integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+        crossorigin=""></script>
+    <!-- Marker Cluster JS -->
+    <script type="text/javascript"
+        src="https://unpkg.com/leaflet.markercluster@1.0.3/dist/leaflet.markercluster.js"></script>
+    <!-- map.js -->
+    <script type="text/javascript" src="../static/js/map.js"></script>
+    <!-- pulls in data for sunburst -->
+    <script src="{{ url_for('static', filename='sunburst.js') }}"></script>
+    <!-- pulls in data for the data table from JSON -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+
+    <!-- converstion for json dump to avoid syntax error -->
+    <script type="application/json" src="static/location_lookup.json"></script>
+
+    <!-- converstion for json dump to avoid syntax error -->
+    <script type="text/javascript">
+        data = displayData({{ pets_data| tojson}})
+        graph = getSunburst({{ pets_data| tojson}})
+    </script>
+
+</body>
+
+</html>
