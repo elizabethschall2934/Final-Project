@@ -13,6 +13,8 @@
 
 -"Pet Chat Bot": Users have an interactive conversation with an ML-powered bot to describe the pet they are looking for. At the end of the conversation, users receive the top 5 best matches and links to the pets on PetFinder.com.
 
+-"Animal Image ML": Users can input a photo of the type of pet they are looking for and receive a list of the closest matching adoptable pets.
+
 -"Description Matching" Recommender System Model: Users enter a description of the type of pet that they are looking for. The model uses a series of machine learning steps to compute the closest pets to fit the user description and returns the top three matches.
 
 -Time to adoption predictions: A Multivariate Regression Model was trained on data from an Austin, Texas rescue organization. The purpose of this model is to predict time to adoption based on the characteristics of a pet. This tool may be useful for pet housing capacity planning. This tool could also be used by organizations to strategize which pets to show to the public on certain high-adoption vs. low-adoption days in order to encourage the adoption of pets that would normally take longer to find their forever homes.
