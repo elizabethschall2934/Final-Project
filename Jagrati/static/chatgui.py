@@ -1,11 +1,12 @@
 import nltk
 from nltk.stem import WordNetLemmatizer
+from numpy.core.fromnumeric import reshape
 lemmatizer = WordNetLemmatizer()
 import pickle
 import numpy as np
 import pymongo
 
-from keras.models import load_model
+from tensorflow.keras.models import load_model
 model = load_model('chatbot_model.h5')
 import json
 import random
@@ -14,8 +15,8 @@ words = pickle.load(open('words.pkl','rb'))
 classes = pickle.load(open('classes.pkl','rb'))
 
 # connecting with MongoDB
-#conn = 'mongodb+srv://TeamCatViz:RockingTeam#1@cluster0.ddihz.mongodb.net/petfinder_db?retryWrites=true&w=majority'
-conn = 'mongodb://localhost:27017'
+conn = 'mongodb+srv://TeamCatViz:RockingTeam#1@cluster0.ddihz.mongodb.net/petfinder_db?retryWrites=true&w=majority'
+#conn = 'mongodb://localhost:27017'
 client = pymongo.MongoClient(conn)
 
 def clean_up_sentence(sentence):
@@ -62,11 +63,13 @@ def getResponse(ints, intents_json):
             result = random.choice(i['responses'])
             break
     return result
+
 def getPetByType(pet_type):
     # Retrieve the all images
     # Query Parameters
+    print(pet_type)
     params = {
-        "type" : {"$eq" : pet_type},
+        "type" : {"$eq" : f"{pet_type.capitalize()}"},
         #"breeds.primary" : {"$eq" : "Chihuahua"},
         #"colors.primary" : {"$in" : ["Bicolor"]}
     }
@@ -75,24 +78,29 @@ def getPetByType(pet_type):
                 ,"breeds.primary":1
                 ,"primary_photo_cropped.small":1
             }
+    print(params,fields)
     db = client.petfinder_db
-    pets_coll = db.tx_pet_data.find(params,fields).limit(1)
-    #print(len(pets_coll))
-    return pets_coll
+    pets_coll = db.tx_pet_data.find(params,fields).limit(5)
+    pet_list_str = str(list(pets_coll))
+    print(len(pet_list_str))
+    if(len(pet_list_str)>2):
+        return pet_list_str
+    else:
+        return f"Couldn't find any {pet_type}"
 
 def chatbot_response(msg):
     ints = predict_class(msg, model)
     res = getResponse(ints, intents)
     print(ints,res)
-    if(ints[0]['intent'] == "search_pet_by_type"):
-        res = getPetByType(msg)
+    type_arr = ["search_dog","search_cat"]
+    if(ints[0]['intent'] in type_arr):
+        print(res)
+        res = getPetByType(res)
     return res
-
 
 #Creating GUI with tkinter
 import tkinter
 from tkinter import *
-
 
 def send():
     msg = EntryBox.get("1.0",'end-1c').strip()
@@ -124,20 +132,19 @@ ChatLog.config(state=DISABLED)
 scrollbar = Scrollbar(base, command=ChatLog.yview, cursor="heart")
 ChatLog['yscrollcommand'] = scrollbar.set
 
+#Create the box to enter message
+EntryBox = Text(base, bd=0, bg="white",width="29", height="5", font="Arial")
+#EntryBox.bind("<Return>", send)
+
 #Create Button to send message
 SendButton = Button(base, font=("Verdana",12,'bold'), text="Send", width="12", height=5,
                     bd=0, bg="#32de97", activebackground="#3c9d9b",fg='#ffffff',
                     command= send )
 
-#Create the box to enter message
-EntryBox = Text(base, bd=0, bg="white",width="29", height="5", font="Arial")
-#EntryBox.bind("<Return>", send)
-
-
 #Place all components on the screen
 scrollbar.place(x=376,y=6, height=386)
 ChatLog.place(x=6,y=6, height=386, width=370)
-EntryBox.place(x=128, y=401, height=90, width=265)
-SendButton.place(x=6, y=401, height=90)
+EntryBox.place(x=6, y=401, height=90, width=265)
+SendButton.place(x=260, y=401, height=90)
 
 base.mainloop()
