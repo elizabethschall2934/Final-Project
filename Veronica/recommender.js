@@ -1,46 +1,48 @@
-# Veronica's test app
+// Receives ID of last pet voted and direction of vote from recommender.html 
+// and returns next pet to recommender.html.
 
-# Import dependencies
-from waitress import serve # production web server
-from flask import Flask, render_template, redirect, url_for
-from flask_pymongo import PyMongo
-import json
-from bson import json_util, ObjectId
+// Display a pet on page load (first pet by pet ID)
+50664914
 
-app = Flask(__name__)
+function getPetData(id)
+{
+    d3.json('/getInitialPet?id=' + id)
+    
+}
 
-#Use flask_pymongo to set up mongo connection
-#app.config["MONGO_URI"] = "mongodb://localhost:27017/pet_db"
-app.config["MONGO_URI"] = "mongodb+srv://TeamCatViz:RockingTeam#1@cluster0.jityt.mongodb.net/pet_db?retryWrites=true&w=majority"
-mongo = PyMongo(app)
+// Declare function to render pet photo and attributes
+function showPet(id)
+{
+    "/getPetAttributes"
+}
 
-@app.route("/")
-def index():
-    pets_coll = mongo.db.pet_data.find()
-    pets_json = json.loads(json_util.dumps(pets_coll))
-    loc_coll = mongo.db.location_data.find()
-    loc_json = json.loads(json_util.dumps(loc_coll))
-    return render_template("index2.html")
+// Display the random pet's photo and attributes
+showPet(id)
 
-@app.route("/getPetData")
-def getPetData():
-    # Query MongoDB for pet data
-    pets_coll = mongo.db.pet_data.find()
-    # Return json string
-    return json_util.dumps(pets_coll)
 
-@app.route("/getLocationData")
-def getLocationData():
-    # Query MongoDB for location lookup table
-    loc_coll = mongo.db.location_data.find()
-    # Return json string
-    return json_util.dumps(loc_coll)
+// Select div from recommender.html where next pet's attributes will be appended.
+var tbody = d3.select(".pet");
 
-# Data route provides data to app.js
-@app.route("/lookUpLocation")
-def lookUpLocation():
-    with open("data/location_lookup.json", "r") as file:
-        return file.read()
+// Select submit button element to add functionality.
+var upButton = d3.select("#up-btn");
+var downButton = d3.select("#down-btn");
+var adoptButton = d3.select("#adopt-btn");
 
-if __name__ == "__main__":
-    app.run(debug=True)
+// Click handler for upButton
+upButton.on
+(
+    "click", function()
+    {
+        // Prevent automatic page refresh
+        d3.event.preventDefault();
+
+        // Get user input
+        var 
+    }
+
+)
+
+
+// Click handler for downButton
+
+// Click handler for adoptButton

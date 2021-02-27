@@ -15,98 +15,98 @@
 
 <body>
 
-<!-- Pets banner -->
-<span class="banner_l">
+  <!-- Pets banner -->
+  <span class="banner_l">
     <img src="static/petbanner.jpg" alt="Banner" />
-</span>
+  </span>
 
-<!-- Nav bar -->
-<div class="topnav">
-  <a class="active" href="/">Home</a>
-  <a href="#news">Take Our Pet-Match Survey!</a>
-  <a href="#news">Find Your Perfect Pet</a>
-  <a href="#contact">What Impacts Adoption</a>
-  <a href="#about">Find An Organization</a>
-</div>
+  <!-- Nav bar -->
+  <div class="topnav">
+    <a class="active" href="/">Home</a>
+    <a href="#news">Take Our Pet-Match Survey!</a>
+    <a href="#news">Find Your Perfect Pet</a>
+    <a href="#contact">What Impacts Adoption</a>
+    <a href="#about">Find An Organization</a>
+  </div>
 
   <div class="header">
     <h1>
-      <center>Pet Recommendations</center>
+      <center>Pic-A-Pet</center>
     </h1>
   </div>
 
   <br>
   <div class="container">
     <h2>
-      <center>Find your perfect pet match with machine learning.</center>
+      <center>Find your perfect pet match with the help of our custom machine learning algorithm.</center>
     </h2>
-    <h2>We'll start by showing you one of the great pets currently up for adoption. Each time you give a thumbs up or
-      thumbs down, the algorithm hones in on the right pet for you.</h2>
+    <h2>We'll start by showing you one of the great pets currently up for adoption. Each time you vote, the algorithm
+      hones in on the right pet for you.</h2>
   </div></br>
   </div>
 
   <br>
   <br>
 
-  <!-- Pet photo -->
-  <p>
-    <center><img src = "Rowan.JPG" width = "400" height = "250">
-    </img></center>
-  </p>
-  <p><center>Pet Name</center></p>
+  <!-- Pet voting area -->
+  <div class="container">
+    <div class="row">
+      <div class="col-md-2"></div>
+      <div class="col-md-5">
+        <div class="pet">
+          <!-- Pet photo -->
+          <p>
+            <center><img src="../static/assets/petphoto.jpg" width="380" height="400">
+              </img></center>
+          </p>
+        </div><!-- Close pet div -->
+      </div> <!-- Close column div -->
 
-  <br>
-  <br>
-  <br>
-
-  <!-- Pet characteristics -->
-  <ul><center>
-    <li>Pet type:  </li>
-    <br>
-    <li>Breed:  </li>
-    <br>
-    <li>Age:  </li>
-    <br>
-    <li>Color:  </li>
-    <br>
-    <li>State:  </li>
-  </center>
-  </ul>
-
-  <!-- Thumbs-up/down-->
-  <div class = "container">
-    <div class = "row">
-      <div class = "col-md-3">
-        <!--Place-holder column-->
+      <div class="col-md-5">
+        <!-- Pet characteristics -->
+        <h2>Name: Bounding Fluff</h2>
+        <br>
+        <h2>Species: Cat</h2>
+        <h2>Breed: Mixed</h2>
+        <h2>Size: Medium</h2>
+        <h2>Age: Adult</h2>
+        <h2>Color: Tricolor</h2>
       </div>
-      <div class = "col-md-3">
-        <p>
-          <center><a class="btn btn-primary btn-lg" href="" role="button">
-            <input type = "image" src = "thumbs_up.png" height="50" width="50"/>
-          </a></center>
-        </p>
-      </div>
-      <div class = "col-md-3">
-        <p>
-          <center><a class="btn btn-primary btn-lg" href="" role="button">
-            <input type = "image" src = "thumbs_down.png" height="50" width="50"/>
-          </a></center>
-        </p>
-      </div>
-    </div>
-  </div>
+    </div> <!-- Close row -->
 
-  <br>
-  
-  <p>
-    <center><a class="btn btn-primary btn-lg" href="/getPetData" role="button">Ready to adopt!</a></center>
-  </p>
+      <!-- Voting buttons -->
+        <div class="row">
+          <div class="col-md-3">
+            <!--Place-holder column-->
+          </div>
+          <div class="col-md-3">
+            <p>
+              <center><button id="up-btn" type="button" class="btn btn-outline-secondary">Thumbs up!</button></center>
+            </p>
+          </div>
+          <div class="col-md-3">
+            <p>
+              <center><button id="down-btn" type="button" class="btn btn-outline-secondary">Thumbs down</button>
+              </center>
+            </p>
+          </div>
+        </div>
 
-  <!-- Scripts -->
-  <!-- D3 JS -->
-  <script src="https://d3js.org/d3.v5.min.js"></script>
-  <!-- D3 tooltips JS -->
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.9.1/d3-tip.js"></script>
+      <br>
+
+      <!-- Ready to adopt! button -->
+      <p>
+        <center><button id="adopt-btn" type="button" class="btn btn-outline-secondary" href="/getPetData">Ready to
+            adopt!</button></center>
+      </p>
+
+      <!-- Scripts -->
+      <!-- D3 JS -->
+      <script src="https://d3js.org/d3.v5.min.js"></script>
+      <!-- D3 tooltips JS -->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.9.1/d3-tip.js"></script>
+      <!-- Local js script -->
+      <script src="..static/js/recommender.js"></script>
 </body>
 
 </html>
