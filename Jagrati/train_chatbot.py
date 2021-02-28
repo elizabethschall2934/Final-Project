@@ -1,3 +1,5 @@
+# This model is using natural language toolkit and tensorflow to read from predefined training data and prepare a Prediction model based on input from a user.
+# this model is utilizing intents.json file, which is initial training data
 import nltk
 from nltk.stem import WordNetLemmatizer
 lemmatizer = WordNetLemmatizer()
@@ -10,6 +12,7 @@ from tensorflow.keras.layers import Dense, Activation, Dropout
 from tensorflow.keras.optimizers import SGD
 import random
 
+# definint variables used and loading training data
 words=[]
 classes = []
 documents = []
@@ -17,7 +20,7 @@ ignore_words = ['?', '!']
 data_file = open('intents.json').read()
 intents = json.loads(data_file)
 
-
+# looping through training data
 for intent in intents['intents']:
     for pattern in intent['patterns']:
 
@@ -31,6 +34,7 @@ for intent in intents['intents']:
         if intent['tag'] not in classes:
             classes.append(intent['tag'])
 
+
 # lemmaztize and lower each word and remove duplicates
 words = [lemmatizer.lemmatize(w.lower()) for w in words if w not in ignore_words]
 words = sorted(list(set(words)))
@@ -43,7 +47,7 @@ print (len(classes), "classes", classes)
 # words = all words, vocabulary
 print (len(words), "unique lemmatized words", words)
 
-
+# saving words and classes file for use with prediction model
 pickle.dump(words,open('words.pkl','wb'))
 pickle.dump(classes,open('classes.pkl','wb'))
 
